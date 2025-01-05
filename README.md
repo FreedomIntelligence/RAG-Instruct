@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## 💻 Model
 - **Model Access**
 
-|                            | 基座LLMs       | Link                                                                         |
+|          Model Name                  | Base LLMs       | Link                                                                         |
 | -------------------------- | ------------ | ---------------------------------------------------------------------------- |
 | **RAG-Instruct-Llama3-3B** | LLaMA-3.2-3B | [HF Link](https://huggingface.co/FreedomIntelligence/RAG-Instruct-Llama3-3B) |
 | **RAG-Instruct-Llama3-8B** | LLaMA-3.1-8B | [HF Link](https://huggingface.co/FreedomIntelligence/RAG-Instruct-Llama3-8B) |
