@@ -1,0 +1,10 @@
+faiss-gpu==1.8.0
+accelerate==0.34.2
+torch==2.5.1
+transformers==4.46.2
+deepspeed==0.15.4
+flash-attn==2.6.3
+xformers==0.0.28
+vllm==0.6.4
+openai==1.40.1
+retrying
