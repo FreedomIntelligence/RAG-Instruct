@@ -172,7 +172,8 @@ CUDA_VISIBLE_DEVICES=0  python -m sglang.launch_server --model-path $model_name 
 2. Wait for the model to be deployed. After deployment, you can run the following code for evaluation. 
 ```bash
 model_name="FreedomIntelligence/RAG-Instruct-Llama3-3B" # Path to the model you are deploying
-python eval/eval_sglang.py --model_name $model_name --input_file eval/data/eval_data.json --port $port --max_new_tokens 500  
+python eval/eval_sglang.py --model_name $model_name \
+   --input_file eval/data/eval_data.json --port $port --max_new_tokens 500  
 ```
 Here, we provide the evaluation example using the PopQA dataset in the file `eval/data/eval_data.json`. For other evaluation datasets, please first use the retriever to retrieve (You can refer to the retriever code in the training section), and then use the above script for evaluation.
 
