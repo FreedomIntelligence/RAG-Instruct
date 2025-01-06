@@ -80,30 +80,6 @@ We’ve open-sourced a 40K instruction dataset for RAG. Download it here:
 | -------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | RAG-Instruct (Wikipedia) | Diverse RAG instruction data based on Wikipedia | [Link](https://huggingface.co/datasets/FreedomIntelligence/RAG-Instruct)  |
 
-## 🚀 Training
-
-### **Fine-tuning with RAG-Instruct**
-
-You can fine-tune your large model using the `RAG-Instruct` dataset to significantly boost RAG capabilities. Use the following code:
-
-```bash
-accelerate launch --config_file ./configs/sft.yaml \
-    --num_processes 8  \
-    --num_machines 1 \
-    --machine_rank 0 \
-    --deepspeed_multinode_launcher standard train_rag_sft.py \
-    --experiment_name RAG-Instruct-training \
-    --model_path meta-llama/Llama-3.1-8B-Instruct \
-    --data_path FreedomIntelligence/RAG-Instruct \
-    --max_seq_len 4096 \
-    --learning_rate 5e-6 \
-    --train_bsz_per_gpu 1 \
-    --gradient_accumulation_steps 16 \
-    --output_dir ./ckpts \
-    --log_dir ./train_logs \
-    --n_epochs 3 \
-    --gradient_checkpointing
-```
 
 ## 🛠️ Data Construction
 
@@ -127,10 +103,24 @@ We use preprocessed passage data from DPR and embeddings generated with [Contrie
 
 We utilize several high-quality datasets as exemplars, including [ShareGPT](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered), [Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [WizardLM-70K](https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V70K), [Lmsys-chat-1M](https://huggingface.co/datasets/lmsys/lmsys-chat-1m), and [SlimOrca](https://huggingface.co/datasets/Open-Orca/OpenOrca).
 
-To ensure high-quality data, we filtered and sampled these datasets using GPT-4 to extract **knowledge-intensive data** (Q).
+To ensure high-quality data, we filtered and sampled these datasets using GPT-4o to extract **knowledge-intensive data** (Q). Using the exemplar data (Q), we retrieve source documents to construct (D*). Specifically, we match the exemplar instructions or questions with source documents by ranking their relevance. For convenience, we provide a processed dataset containing source documents and exemplar data across five RAG scenarios [here](data_gen/examplar_data/data.json).
 
-**3. Retrieve Documents.**  
-We use preprocessed passage data from DPR and embeddings generated with [Contriever](https://github.com/facebookresearch/contriever). To retrieve passages, use the following command:
+**3. Synthesize Data with Prompts.**  
+Using the retrieved documents (D*) and exemplar data (Q), we synthesize new data points with tailored prompts to create diverse and high-quality instruction-following datasets.
+
+```bash
+cd data_gen
+python generate_data.py \
+    --data_path examplar_data/data.json \
+    --max_workers 16 \
+    --save_dir ./output_data/RAG-Instruct.json
+```
+
+## 🚀 Training
+
+- **1. Run Retriever**  
+Before training, we need to perform retrieval on the synthesized RAG-Instruct dataset. For each data entry, we ensure the use of all source documents(D*) and supplement them with enough unrelated documents(D-) to total 10 documents.
+We use preprocessed passage data from DPR and embeddings generated with [Contriever](https://github.com/facebookresearch/contriever). To retrieve noisy documents (D-), use the following command:
 
 ```bash
 cd retrieval_lm
@@ -143,19 +133,30 @@ python passage_retrieval.py \
     --n_docs 250
 ```
 
-The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval.
+`RAG_INSTRUCT_DATA_PATH` is the final location of the synthesized `RAG-Instruct.json` file. The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval. Next, we randomly sample documents ranked beyond the top 200 as (D-).
 
-Using the exemplar data (Q), we retrieve source documents to construct (D*). Specifically, we match the exemplar instructions or questions with source documents by ranking their relevance. For convenience, we provide a processed dataset containing source documents and exemplar data across five RAG scenarios [here](data_gen/examplar_data/data.json).
+- **2. Fine-tuning with RAG-Instruct**
 
-**4. Synthesize Data with Prompts.**  
-Using the retrieved documents (D*) and exemplar data (Q), we synthesize new data points with tailored prompts to create diverse and high-quality instruction-following datasets.
+You can fine-tune your large model using the `RAG-Instruct` dataset to significantly boost RAG capabilities. Use the following code:
 
 ```bash
-cd data_gen
-python generate_data.py \
-    --data_path examplar_data/data.json \
-    --max_workers 16 \
-    --save_dir ./output_data/RAG-Instruct.json
+cd train
+accelerate launch --config_file ./configs/sft.yaml \
+    --num_processes 8  \
+    --num_machines 1 \
+    --machine_rank 0 \
+    --deepspeed_multinode_launcher standard train_rag_sft.py \
+    --experiment_name RAG-Instruct-training \
+    --model_path meta-llama/Llama-3.1-8B-Instruct \
+    --data_path FreedomIntelligence/RAG-Instruct \
+    --max_seq_len 4096 \
+    --learning_rate 5e-6 \
+    --train_bsz_per_gpu 2 \
+    --gradient_accumulation_steps 16 \
+    --output_dir ./ckpts \
+    --log_dir ./train_logs \
+    --n_epochs 3 \
+    --gradient_checkpointing
 ```
 
 
@@ -172,7 +173,7 @@ CUDA_VISIBLE_DEVICES=0  python -m sglang.launch_server --model-path $model_name 
 model_name="FreedomIntelligence/RAG-Instruct-Llama3-3B" # Path to the model you are deploying
 python eval/eval_sglang.py --model_name $model_name --input_file eval/data/eval_data.json --port $port --max_new_tokens 500  
 ```
-Here, we provide the evaluation example using the PopQA dataset in the file `eval/data/eval_data.json`. For other evaluation datasets, please first use the retriever to retrieve, and then use the above script for evaluation.
+Here, we provide the evaluation example using the PopQA dataset in the file `eval/data/eval_data.json`. For other evaluation datasets, please first use the retriever to retrieve (You can refer to the retriever code in the training section), and then use the above script for evaluation.
 
 3. After completing the evaluation, run the following code to stop the Sglang service and release GPU memory.
 ```bash
