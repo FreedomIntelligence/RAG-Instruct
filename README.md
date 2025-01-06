@@ -110,7 +110,7 @@ accelerate launch --config_file ./configs/sft.yaml \
 We provide scripts to **synthesize a diverse RAG instruction dataset**.
 
 **1. Download Source Documents.**  
-We use preprocessed passage data from DPR and embeddings generated with Contriever-MSMARCO:
+We use preprocessed passage data from DPR and embeddings generated with [Contriever-MSMARCO](https://github.com/facebookresearch/contriever) :
 
 - Download the preprocessed passage data:
   ```bash
@@ -145,8 +145,7 @@ python passage_retrieval.py \
 
 The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval.
 
-Using the exemplar data (Q), we retrieve source documents to construct (D*). Specifically, we match the exemplar instructions or questions with source documents by ranking their relevance. For convenience, we provide a processed dataset containing source documents and exemplar data across five RAG scenarios [here](https://example.com/preprocessed-exemplar-dataset).
-
+Using the exemplar data (Q), we retrieve source documents to construct (D*). Specifically, we match the exemplar instructions or questions with source documents by ranking their relevance. For convenience, we provide a processed dataset containing source documents and exemplar data across five RAG scenarios [here](data_gen/examplar_data/data.json).
 **4. Synthesize Data with Prompts.**  
 Using the retrieved documents (D*) and exemplar data (Q), we synthesize new data points with tailored prompts to create diverse and high-quality instruction-following datasets.
 
