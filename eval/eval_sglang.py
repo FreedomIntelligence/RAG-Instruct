@@ -1,33 +1,15 @@
 import argparse
 import numpy as np
-import re
 from tqdm import tqdm
 import argparse
-import string
-from vllm import LLM, SamplingParams
-from utils import load_file, TASK_INST, PROMPT_DICT, save_file_jsonl, process_arc_instruction, postprocess_answers_closed
-from metrics import metric_max_over_ground_truths, exact_match_score, match
-import ast
-import backoff
+from utils import load_file, TASK_INST
 import openai
-import evaluate
 from jinja2 import Template
 import os
 import json
-from bleu import _bleu
 from transformers import AutoTokenizer
 from scorer import score
 from jinja2 import Template
-
-
-ORG_KEY="YOUR_ORG_KEY"
-
-# @backoff.on_exception(backoff.expo, openai.error.RateLimitError)
-def completions_with_backoff(**kwargs):
-    return openai.ChatCompletion.create(**kwargs)
-
-def completions_instructgpt_backoff(**kwargs):
-    return openai.Completion.create(**kwargs)
 
 
 def postprocess_output(pred):
