@@ -118,7 +118,7 @@ python generate_data.py \
 
 ## 🚀 Training
 
-- **1. Run Retriever**  
+**1. Run Retriever**  
 Before training, we need to perform retrieval on the synthesized RAG-Instruct dataset. For each data entry, we ensure the use of all source documents(D*) and supplement them with enough unrelated documents(D-) to total 10 documents.
 We use preprocessed passage data from DPR and embeddings generated with [Contriever](https://github.com/facebookresearch/contriever). To retrieve noisy documents (D-), use the following command:
 
@@ -135,7 +135,7 @@ python passage_retrieval.py \
 
 `RAG_INSTRUCT_DATA_PATH` is the final location of the synthesized `RAG-Instruct.json` file. The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval. Next, we randomly sample documents ranked beyond the top 200 as (D-).
 
-- **2. Fine-tuning with RAG-Instruct**
+**2. Fine-tuning with RAG-Instruct**
 
 You can fine-tune your large model using the `RAG-Instruct` dataset to significantly boost RAG capabilities. Use the following code:
 
