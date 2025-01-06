@@ -1,1 +1,1786 @@
-
+[
+    {
+        "context": [
+            {
+                "id": "12662968",
+                "title": "Multiracial Americans",
+                "text": "of the category of \"biracial\" or \"multiracial\" in 1988, the response from the public was mostly negative. Some African-American organizations and African-American political leaders, such as Congresswoman Diane Watson and Congressman Augustus Hawkins, were particularly vocal in their rejection of the category, as they feared the loss of political and economic power if African-Americans reduced their numbers by self-identification. Since the 1990s and 2000s, the terms mixed race, multiracial and biracial have been used more frequently in society. It is still most common in the United States (unlike some other countries with a history of slavery) for people with visible",
+                "socre": 2.231969118118286
+            },
+            {
+                "id": "12662979",
+                "title": "Multiracial Americans",
+                "text": "mostly negative. Some African-American organizations and political leaders, such as Senator Diane Watson and Representative Augustus Hawkins, were particularly vocal in their rejection of the category. They feared a loss in political and economic power if African-Americans abandoned their one category. This reaction is characterized as \"historical irony\" by Reginald Daniel (2002). The African-American self-designation had been a response to the one-drop rule, but then people resisted the chance to claim their multiple heritages. At the bottom was a desire not to lose political power of the larger group. Whereas before people resisted being characterized as one group regardless of",
+                "socre": 2.1972131729125977
+            },
+            {
+                "id": "12662967",
+                "title": "Multiracial Americans",
+                "text": "some did in the nineteenth century. Until 1930, census enumerators used the terms free people of color and mulatto to classify people of apparent mixed race. When those terms were dropped, as a result of the lobbying by the Southern Congressional bloc, the Census Bureau used only the binary classifications of black or white, as was typical in segregated southern states. In the 1980s, parents of mixed race children began to organize and lobby for the addition of a more inclusive term of racial designation that would reflect the heritage of their children. When the U.S. government proposed the addition",
+                "socre": 2.164552688598633
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Please answer a question about the following article about Multiracial American:\n\nIn the 1980s, parents of mixed-race children began to organize and lobby for the addition of a more inclusive term of racial designation that would reflect the heritage of their children. When the U.S. government proposed the addition of the category of \"bi-racial\" or \"multiracial\" in 1988, the response from the public was mostly negative. Some African-American organizations, and African-American political leaders, such as Congresswoman Diane Watson and Congressman Augustus Hawkins, were particularly vocal in their rejection of the category, as they feared the loss of political and economic power if African Americans reduced their numbers by self-identification.\n\nWhen did multiracial people start to organize for more inclusive racial identifiers?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6081227",
+                "title": "Margin (finance)",
+                "text": "capital equal to the value of the futures contract itself, then they would not profit from the inherent leverage implicit in futures trading. A conservative trader might hold a margin-equity ratio of 15%, while a more aggressive trader might hold 40%. Return on margin (ROM) is often used to judge performance because it represents the net gain or net loss compared to the exchange's perceived risk as reflected in required margin. ROM may be calculated (realized return) / (initial margin). The annualized ROM is equal to For example, if a trader earns 10% on margin in two months, that would",
+                "socre": 1.5149961709976196
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "What is more important for future stock price Performance: Gross Margin or Free Cash Flow Margin? ",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "7339553",
+                "title": "Mobile commerce",
+                "text": "both desktop and mobile web when it comes to browsing duration and interactions. Average order value is reportedly greater with retail apps than traditional ecommerce, and conversion rates on apps are twice that of mobile websites. Mobile applications serve as a means to ensure positive user experience, seamless interaction, and increased revenues for e-commerce. According to DesignRush report , mobile applications are expected to generate $189 billion by 2020. Moreover, a study by Forrester shows that mobile devices will be leveraged to facilitate over $1 trillion in sales in 2018. Mobile commerce The phrase mobile commerce was originally coined in",
+                "socre": 1.350661039352417
+            },
+            {
+                "id": "18473556",
+                "title": "Cashier as a service",
+                "text": "shopper S buying and item I from a merchant M, the following invariants must hold true. When a shopper buys merchandise from a merchant, the shopper calls public APIs (as indicated by the black diamonds) of the merchant and the CaaS with HTTP requests. The merchant and CaaS may also call each other's APIs to give information to each other. Below is a detailed description of the generic flow: RT1.a) The shopper checks out the items in his shopping cart. RT1.a.a) The merchant notifies the CaaS that a customer will be paying. RT1.a.b) The CaaS acknowledges the merchant. RT1.b) The",
+                "socre": 1.3848851919174194
+            }
+        ],
+        "source": "ShareGPT_V3",
+        "example_question": "If I have a Shopify app with API access to a store, can I make an API call to get the total number of orders over the lifetime of the store?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "10866982",
+                "title": "Saxton Pope",
+                "text": "Saxton Pope Saxton Temple Pope (September 4, 1875 – August 8, 1926) was an American doctor, teacher, author and outdoorsman. He is most famous as the father of modern bow hunting, and for his close relationship with Ishi, the last member of the Yahi tribe and the last known American Indian to be raised largely isolated from Western culture. Born in Fort Stockton, Texas as the son of an army surgeon, Pope grew up in military camps and frontier towns, where he learned outdoor skills and became an athlete. This is where he first learned archery, as well as horsemanship,",
+                "socre": 1.7570242881774902
+            },
+            {
+                "id": "16035681",
+                "title": "Liston Pope",
+                "text": "Pope died the following year. Pope was interred at Thomasville. Liston Pope Liston Pope (6 September 1909 — 15 April 1974) was an American clergyman, author, theological educator, and dean of Yale University Divinity School from 1949 to 1962. Pope was born in Thomasville, North Carolina, the son of Robie Lester Pope and his wife, née Dora Vivian Younts. Robie Pope was a banker, a city councilman andmayor of Thomasville, and had served in the North Carolina House of Representatives. Liston Pope considered his father to be a \"banker with a conscience\" and an inspiration in his study of social",
+                "socre": 1.5465916395187378
+            },
+            {
+                "id": "11322807",
+                "title": "James Cecil, 6th Earl of Salisbury",
+                "text": "to have been a barber and a tourist guide. However, within a few years he separated from his Countess and lived as a recluse with his mistress, one Mrs. Mary Grave of Baldock, for the remaining 30 years of his life at Quickswood, in the parish of Clothall. His relationship with her predated his marriage. C. Price wrote of the liaison in 1771 (Hatfield House archives): “He lives upstairs … surrounded with old trunks and boxes and scattered books. Well or ill he never quits his chamber, never sees or converses with any but his old Dame, as he calls",
+                "socre": 1.5953567028045654
+            },
+            {
+                "id": "10866986",
+                "title": "Saxton Pope",
+                "text": "as the namesakes of the Pope and Young Club, an organization dedicated to bowhunting which continues today and includes its own world record book for North American game. In order to be entered into the Pope and Young records, the game animal must be taken with a bow and arrow. He also reintroduced traditional bow and arrow making skills learned from Ishi to other Indians whose communities had lost the art. saxtonpope.com [by his biographer] Saxton Pope Saxton Temple Pope (September 4, 1875 – August 8, 1926) was an American doctor, teacher, author and outdoorsman. He is most famous as",
+                "socre": 1.6035778522491455
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Question: Combine facts and answer this: Saxton Temple Pope had a close relationship with a man who lived most of his life where?\nAnswer:",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "10088194",
+                "title": "Archie's Final Project",
+                "text": "class project. \"I Am an Archie\" is a social media marketing campaign aiming to promote teen suicide awareness. After attending an early screening of \"Archie's Final Project\", a Miami teenager created a video in which he identified as an Archie. Since then, thousands of teens have identified themselves as Archies. When asked why the campaign resonated so well with teens, Gabriel Sunday said \"I think the reason this whole IAmAnArchie campaign started is because kids in the festival circuit would be like, “Oh, that’s me. Archie is me.” There are so many ways you can connect with that character and",
+                "socre": 1.53621506690979
+            },
+            {
+                "id": "5167812",
+                "title": "Archibald Roosevelt",
+                "text": "other family members and friends. Archie was an avid reader and very good at putting puzzles together quickly. His father remarked to him, \"Archie, my smart boy, never give up your smartness; that goes for you and your brother Quentin.\" Archie first attended the Force School and Sidwell Friends School. After being expelled from Groton, Archie continued his education at the Evans School for Boys, and graduated from Phillips Academy, Andover, Mass., in 1913. He went on to Harvard University, where he graduated in 1917. Archie was born in Washington, D.C., the fourth child of President Theodore \"T.R.\" Roosevelt, Jr.",
+                "socre": 1.5048564672470093
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "What kind of thing would the answer to the question \"What high school does Archie attend ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "7059779",
+                "title": "Verbal reasoning",
+                "text": "no car and therefore won't be able to go to work today,\" has two premises which induce the conclusion that John won't be at work. The first premise is that \"John has no car\". The second premise is implicit, and can be explicitly stated as \"John cannot go to work today unless he has a car\". The logical conclusion following from these two premises, then, is that John won't be able to go to work today. A syllogism is an argument that consists of premises in order to arrive at a truth. For example, \"Mary is a woman. All women",
+                "socre": 1.449049711227417
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Q: Test for natural language inference.\nPremise: \"A garbage collector dressed in a yellow safety vest rides on the back of a garbage truck.\"\nHypothesis: \"Some workers are in an office.\"\nIs the hypothesis entailed by the premise?\nOptions:\n- yes\n- no\n- it is not possible to tell\nA: A garbage collector is singular and cannot be the same thing as some workers which is plural.S omeone who rides on the back of a garbage truck does not work in an office.\nThe answer is no.\n\nQ: Given the sentence \"A woman in a dress sits on a bench with her dog.\" can we conclude that \"The woman has a dog.\"?\nOptions:\n- yes\n- it is not possible to tell\n- no\nA: A woman with a dog is considered to be a woman having a dog.\nThe answer is yes.\n\nQ: Premise: \"The back of a man with black shorts and a white shirts walking next to a building.\"\nHypothesis: \"The man just got out of the gym.\"\nDo we know that the hypothesis entailed by the premise?\nA: If the man just got out of the gym he would not have had time to exit the building and be walking next to it.\nThe answer is no.\n\nQ: Can we conclude from \"Six people with camping backpacks are hiking up a sandy trail in single file.\" that \"There are some people with camping gear walking in a line.\"?\nOptions:\n- yes\n- no\n- it is not possible to tell\nA:",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "5990281",
+                "title": "Central pattern generator",
+                "text": "to provide increased load-bearing and thrust forces. It has been posited that in well-predicted movements, CPG-generated phase durations and muscle forces closely match those required by the evolving biomechanical events, minimizing the sensory corrections required. The term ‘‘neuromechanical tuning’’ has been coined to describe this process Fig. 1 provides a simplified schematic that summarizes these proposed mechanisms. A command specifying desired body velocity descends from higher centers to the MLR, which drives the spinal locomotor CPG. The CPG timer produces the appropriate cadence and phase durations and the pattern formation layer modulates the motoneuronal outputs. The activated muscles resist stretch",
+                "socre": 1.6921132802963257
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "In addition to the given constraints, how can I integrate user feedback into the software's prediction algorithm to further personalize postural adjustments? Develop a comprehensive MATLAB prototype that utilizes a variety of data sources, including wearable sensors and medical history, to analyze the biomechanical characteristics of individuals and generate real-time postural recommendations that account for environmental factors such as temperature and lighting.",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "4627686",
+                "title": "Intercom",
+                "text": "between instruments of similar make and model. Examples include Panasonic model KX-TS3282W(/B), AT&T models 945 and 974, and TMC model ET4300. A single device can add intercom functionality to multiple standard telephones on a common phone line, even of different makes and models. Installation effort is minimal, and is not vulnerable to the radio interference and security issues of wireless systems. The Add-A-Com Whole House Intercom for Standard Telephone Systems is such a device. Intercom paging is accomplished by sounding a distinctive ring from all telephones after any phone is taken briefly off hook. After paging, any number of phones",
+                "socre": 1.3711647987365723
+            },
+            {
+                "id": "4627683",
+                "title": "Intercom",
+                "text": "stations or television networks. For installations where it is not desirable or possible to run wires to support an intercom system, wireless intercom systems are available. There are two major benefits of a wireless intercom system over the traditional wired intercom. The first is that installation is much easier since no wires have to be run between intercom units. The second is that you can easily move the units at any time. With that convenience and ease of installation comes a risk of interference from other wireless and electrical devices. Nearby wireless devices such as cordless telephones, wireless data networks,",
+                "socre": 1.3069772720336914
+            },
+            {
+                "id": "4627685",
+                "title": "Intercom",
+                "text": "49 MHz, FM band (200–270 kHz), 494–608 MHz, 900 MHz, 2.4 GHz, 5.8 GHz, and MURS (150 MHz). IP Intercoms are now appearing that connect a Master to an IP Substation elsewhere on the Internet, via an Ethernet port. Wireless intercoms can also run over a mesh network that allows near-instant communication throughout a house. Power line communication units that send signal over house wiring have been referred to as \"wireless\" intercoms. Though they are technically wired intercoms, they are based on existing wiring and thus require no additional wires. Some telephones include intercom functions that enable paging and conversation",
+                "socre": 1.3217577934265137
+            },
+            {
+                "id": "4627676",
+                "title": "Intercom",
+                "text": "with few pairs (4-6 pairs) while controlling an electric strike. The last generations are even compatible with computers and some models include TCP/IP. Traditional intercoms and public address systems are composed entirely of analogue electronics components but many new features and interfacing options can be accomplished with new intercom systems based on digital connections. Video signals can be carried as well as voice. Digital intercom stations can be connected using Cat 5 cable and can even use existing computer networks as a means of interfacing distant parties. Many schools and office buildings now use audio / video systems to identify",
+                "socre": 1.3345348834991455
+            }
+        ],
+        "source": "ShareGPT_V3",
+        "example_question": "I like the intercom option but is there a way to connect them even though they are different brands?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "15214303",
+                "title": "MacSpeech Scribe",
+                "text": "the printed page in a matter of minutes and with a minimum of hassle. Scribe is the best, simplest way for you to get your spoken word to the printed page. MacSpeech Scribe MacSpeech Scribe is speech recognition software for Mac OS X designed specifically for transcription of recorded voice dictation. It runs on Mac OS X 10.6 Snow Leopard. The software transcribes dictation recorded by an individual speaker. Typically the speaker will record their dictation using a digital recording device such as a handheld digital recorder, mobile smartphone (e.g. iPhone), or desktop or laptop computer with a suitable microphone.",
+                "socre": 1.546575903892517
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "Is there a way to automatically transcribe handwritten notes and save them as a PDF file using Python? Can you provide me with a script that can accurately recognize handwriting and convert it into digital text?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "7921700",
+                "title": "Ancient Society",
+                "text": "is an \"ascent\" to \"human supremacy on the earth\". The prime analogate is an individual working his way up in society; that is, Morgan, who was well read in classics, relies on the Roman \"cursus honorum,\" rising through the ranks, which became the basis of the English ideas of career and working your way up, to which he blends in the rationalist idea of a \"scala,\" or ladder, of life. The idea of growth or development is also borrowed from individuals. He proposed that a society has a life like that of an individual, which develops and grows. He gives",
+                "socre": 1.4184914827346802
+            },
+            {
+                "id": "661524",
+                "title": "Great Society",
+                "text": "Great Society The Great Society was a set of domestic programs in the United States launched by Democratic President Lyndon B. Johnson in 1964–65. The main goal was the elimination of poverty and racial injustice. President Johnson first used the term \"Great Society\" during a speech at Ohio University, then unveiled the program in greater detail at an appearance at University of Michigan. New major spending programs that addressed education, medical care, urban problems, rural poverty, and transportation were launched during this period. The program and its initiatives were subsequently promoted by him and fellow Democrats in Congress in the",
+                "socre": 1.4311522245407104
+            },
+            {
+                "id": "2337885",
+                "title": "Perry Rhodan",
+                "text": "Rhodan to find the answers to the three ultimate questions; apparently they have known the answer to the first and second question but not to the third, which reads \"Who initiated the LAW and what does it cause?\". Perry Rhodan had the chance to receive the answer at the mountain of creation, but he refused, knowing that the answer would destroy his mind. It is known that the negative Superintelligence Koltoroc had received the answer to the last ultimate question, 69 million years BC at Negane Mountain, but it is not known if it made any use of that knowledge.",
+                "socre": 1.400428056716919
+            },
+            {
+                "id": "661529",
+                "title": "Great Society",
+                "text": "in another speech at the University of Michigan in Ann Arbor, Michigan, on May 22, 1964. We are going to assemble the best thought and broadest knowledge from all over the world to find these answers. I intend to establish working groups to prepare a series of conferences and meetings—on the cities, on natural beauty, on the quality of education, and on other emerging challenges. From these studies, we will begin to set our course toward the Great Society. Almost immediately after the Ann Arbor speech, 14 separate task forces began studying nearly all major aspects of United States society",
+                "socre": 1.432629942893982
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Would the answer to the question \"Who sought to create The Great Society ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "9118920",
+                "title": "Computer",
+                "text": "calculation or some external event. Many computers directly support subroutines by providing a type of jump that \"remembers\" the location it jumped from and another instruction to return to the instruction following that jump instruction. Program execution might be likened to reading a book. While a person will normally read each word and line in sequence, they may at times jump back to an earlier place in the text or skip sections that are not of interest. Similarly, a computer may sometimes go back and repeat the instructions in some section of the program over and over again until some",
+                "socre": 1.464552402496338
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Explain what happens under the hood when a computer executes a program.",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "17074058",
+                "title": "Doctrinal background of Zen",
+                "text": "an indispensable part of the Buddhist path to awakening. Hakuin emphasized the need of \"post-satori training\", purifying the mind of karmic tendencies and The insight in the need of arousing bodhicitta formed Hakuin's final awakening: Buddhas and bodhisattvas such as Amitābha, Avalokiteśvara, Mañjuśrī, Samantabhadra, and Kṣitigarbha are venerated alongside Gautama Buddha. By repeatedly chanting the (chapter 25 of the Lotus Sutra), for example, one instills the Bodhisattva's ideals into one's mind. The ultimate goal is given in the end of the sutra, which states, \"In the morning, be one with Avalokiteshvara; in the evening, be one with Avalokiteshvara\". Through the",
+                "socre": 1.7733815908432007
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Is the following statement true?\n\"Bodhisattvas falsify Buddhism because they are not enlightened.\"\n\nLet me think out loud. A Bodhisattva can teach Buddhism without being enlightened. The answer is no.\n\nClaim: \"The Mood disorder served us the rest of the seafood platter that evening.\"\nIs the claim above correct, and can it be verified by human common sense and without a web search?\nOptions:\n- yes\n- no\n\nLet me think out loud. Mood Disorders do not serve food, since they are mental issues and not restaurants. The answer is no.\n\nIs the following a factual statement?\n\"The Renaissance began a new era in western society.\"\nOptions:\n- yes\n- no\n\n",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "12988855",
+                "title": "Oxygen plant",
+                "text": "designated for indoor operation, are set to effectively produce gaseous oxygen from atmospheric air. An unquestionable advantage of adsorption-based oxygen plants is the low cost of oxygen produced in the cases where there are no rigid requirements to the product oxygen purity. Structurally, the adsorption oxygen plant consists of several adsorbers, the compressor unit, pre-purifier unit, valve system and the plant control system. A simple adsorber is a column filled with layers of specially selected adsorbents – granular substances preferentially adsorbing highly adsorbable components of a gas mixture. Where gaseous oxygen purity is required at the level of 90-95% with",
+                "socre": 1.661094307899475
+            },
+            {
+                "id": "2981527",
+                "title": "The BOC Group",
+                "text": "company manufactured oxygen using a high temperature barium oxide process, known as the Brin process, developed from the work of French scientist Jean Baptiste Boussingault. The main application for gaseous oxygen at that time was in connection with generation of limelight, used in magic lanterns and theatre lighting. A major new market emerged around 1903, with the development of the oxyacetylene welding process. Around the same time, new cryogenic air separation processes had been devised independently in Britain, the United States and Germany. The German engineer and founder of the Linde Group, Carl von Linde, won the patent for the",
+                "socre": 1.6009796857833862
+            },
+            {
+                "id": "12988854",
+                "title": "Oxygen plant",
+                "text": "non-absorbable components go through the plant. Today, there exist three methods of arranging the adsorption-based air separation process with the use of swing technologies: pressure (PSA), vacuum (VSA) and mixed (VPSA) ones. In the pressure swing adsorption flow processes, oxygen is recovered under above-atmospheric pressure and regeneration is achieved under atmospheric pressure. In vacuum swing adsorption flow processes, oxygen is recovered under atmospheric pressure, and regeneration is achieved under negative pressure. The mixed systems operation combines pressure variations from positive to negative. The adsorption oxygen plants produce 5 to 5,000 Nm/h of oxygen with a purity of 93-95%. These systems,",
+                "socre": 1.6273714303970337
+            },
+            {
+                "id": "5136950",
+                "title": "Claus process",
+                "text": "controlled such that in total 1/3 of all hydrogen sulfide (HS) is converted to SO. This ensures a stoichiometric reaction for the Claus reaction in the second catalytic step (see next section below). The separation of the combustion processes ensures an accurate dosage of the required air volume needed as a function of the feed gas composition. To reduce the process gas volume or obtain higher combustion temperatures, the air requirement can also be covered by injecting pure oxygen. Several technologies utilizing high-level and low-level oxygen enrichment are available in industry, which requires the use of a special burner in",
+                "socre": 1.660815715789795
+            }
+        ],
+        "source": "camelai",
+        "example_question": "\"What are the key steps involved in developing a process for the production of high purity oxygen gas from air for industrial applications, and what factors should be considered during the design of this process?\"",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "12158795",
+                "title": "Saint-Laurent Railway Bridge",
+                "text": "Saint-Laurent Railway Bridge The Saint-Laurent Railway Bridge is a Canadian Pacific railway bridge linking LaSalle to the Kahnawake Mohawk Reserve, just upstream of the Mercier Bridge. It is used by the RTM Candiac commuter train. Two bridges have crossed the river at this location. The first bridge, erected in 1885-1887, was of all-steel construction that employed a flying cantilever design to cross the main channel. It carried a single track and was opened for passenger service at the end of July, 1887. The second structure, the one standing today, was constructed between 1910 and 1913 and was completed by November",
+                "socre": 1.631101131439209
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "how many bridges links quebec city to the south of the st-laurent?",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "4905035",
+                "title": "The Wisdom of Crowds",
+                "text": "of Web-based quasi-prediction marketplace companies have sprung up to offer predictions primarily on sporting events and stock markets but also on other topics. Those companies include Piqqem, Cake Financial, Covestor, Predictify, and the Motley Fool (with its Fool CAPS product). The principle of the prediction market is also used in project management software such as Yanomo to let team members predict a project's \"real\" deadline and budget. The Delphi method is a systematic, interactive forecasting method which relies on a panel of independent experts. The carefully selected experts answer questionnaires in two or more rounds. After each round, a facilitator",
+                "socre": 1.3846607208251953
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Five popular and in-demand tools used for financial forecasting. Give only tool names separated by comma, no description needed.",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "19108732",
+                "title": "British Theatre Playhouse",
+                "text": "Vi at Marina Bay Sands on 10 November and lasted until 12 November 2016. The show was attended by the EU Ambassador to Singapore, Dr Michael Pulch, and his wife, Gabriele Pulch, and other important people of the local political and financial scene. David Bowie (8 January 1947 – 10 January 2016), used to be a British pop singer, songwriter and actor, famous for hits such as \"Let’s Dance\", \"Space Oddity\", \"Ziggy Stardust\", \"China Girl\", and many more. Thus, he was one of the pop icons who influenced Paul Roberts, himself a singer, songwriter and actor and former lead singer",
+                "socre": 1.5303105115890503
+            },
+            {
+                "id": "114452",
+                "title": "David Bowie",
+                "text": "Museum. Bowie was featured in a cameo vocal in the Arcade Fire song \"Reflektor\". A poll carried out by BBC History Magazine, in October 2013, named Bowie as the best-dressed Briton in history. At the 2014 Brit Awards on 19 February, Bowie became the oldest recipient of a Brit Award in the ceremony's history when he won the award for Best British Male, which was collected on his behalf by Kate Moss. His speech read: \"I'm completely delighted to have a Brit for being the best male – but I am, aren't I Kate? Yes. I think it's a great",
+                "socre": 1.4804469347000122
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Write an article with the title: \"British Airways pays tribute to David Bowie\"\n\nArticle:",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "559454",
+                "title": "Lp space",
+                "text": "a Banach space. This Banach space is the -space over . The grid distance or rectilinear distance (sometimes called the \"Manhattan distance\") between two points is never shorter than the length of the line segment between them (the Euclidean or \"as the crow flies\" distance). Formally, this means that the Euclidean norm of any vector is bounded by its 1-norm: This fact generalizes to -norms in that the -norm of any given vector does not grow with : For the opposite direction, the following relation between the 1-norm and the 2-norm is known: This inequality depends on the dimension of",
+                "socre": 1.4828842878341675
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "When would Manhattan distance be preferable over Euclidean distance?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "8696337",
+                "title": "Ten Bulls",
+                "text": "colour changes from dark to white, representing the gradual development of the practitioner, ending in the disappearance of the practitioner. Tzu-te Hui (自得慧暉, Zide Huihui, Jp. Jitoku) (1090-1159) made a version with six pictures. The sixth one goes beyond the stage of absolute emptiness, where Ching-chu's version ends. Just like Ching-chu's version, the ox grows whiter along the way. A third version by an unknown author, with ten pictures, was most popular in China. It belongs to the Ching-chu and Tzu-te Hui series of pictures, and has a somewhat different serie of pictures compared to Kuòān Shīyuǎn's version. The 1585-edition",
+                "socre": 1.5165483951568604
+            },
+            {
+                "id": "20942042",
+                "title": "Mo (Chinese zoology)",
+                "text": "in the King of Wu's armory went missing, they dug into the ground and discovered two hares, one white and one yellow, and their stomachs were full of iron, which when cast into weapons would cut jade like mud. The cunning hare is in the \"mo\" panda category.\" (昆吾山狡兔形如兔雄黃雌白食丹石銅鐵 昔吳王武庫兵器悉盡掘地得二兔一白一黃腹內皆鐵取鑄爲劒切玉如泥皆貘類也). Chinese texts have described the \"mo\" \"giant panda\" for over two millennia. The circa 4th or 3rd century BCE \"Erya\" lexicon section \"shou\" (獸 \"beasts\") defines \"mo\" (貘, \"giant panda\") as a \"baibao\" (白豹, \"white leopard\"). The snow leopard (\"Panthera uncia\") is an alternate identification of this \"white leopard\" (Read",
+                "socre": 1.5258952379226685
+            },
+            {
+                "id": "163445",
+                "title": "Giant panda",
+                "text": "of giant panda have been recognized on the basis of distinct cranial measurements, color patterns, and population genetics. A detailed study of the giant panda's genetic history from 2012 confirms that the separation of the Qinlin population occurred about 300,000 years ago, and reveals that the non-Qinlin population further diverged into two groups, named the Minshan and the Qionglai-Daxiangling-Xiaoxiangling-Liangshan group respectively, about 2,800 years ago. The giant panda has luxuriant black-and-white fur. Adults measure around long, including a tail of about , and tall at the shoulder. Males can weigh up to . Females (generally 10–20% smaller than males) can",
+                "socre": 1.5006535053253174
+            },
+            {
+                "id": "20942044",
+                "title": "Mo (Chinese zoology)",
+                "text": "a \"heihu\" < *\"m̥ˁəkqʰˁraʔ\" (黑虎, \"black tiger\"). Guo's commentary says the names referred to white-colored and black-colored tigers, not zoologically different animals. Unlike the \"mo\" giant panda's familiar cultural identity and history, neither \"han\" nor \"shu\" occurs in any early texts besides the \"Erya\" (Harper 2013: 216). The c. 3rd or 2nd century BCE \"Shanhai Jing\" (Classic of Mountains and Seas) mytho-geography does not directly mention \"mo\" (貘), but says one mountain has panda-like \"mengbao\" (猛豹, \"ferocious leopards\"), and Guo Pu's 4th century CE commentary to another mountain says it was the habitat of \"mo\" (㹮) pandas. The description of",
+                "socre": 1.4959187507629395
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Does giant panda have colors that differ from yin yang? Please answer step by step:",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "13827210",
+                "title": "Conhydrine",
+                "text": ", who showed that -\"N-\"methylconhydrone is \"N-\"methyl-2-piperidyl ethyl ketone, that conhydrine (mp. 69–70 °C), produced by a somewhat indirect method, is identical with the product, mp. 69.5–71.5 °C, prepared by Engler and Bauer by the reduction with sodium in ethyl alcohol of 2-pyridyl ethyl ketone, and that conhydrine on dehydrogenation over platinum or palladium asbestos gives rise to a mixture of tetrahydropyridyl 2-ethyl ketone and 2-α-hydroxypropyl-pyridine. Späth and Adler have shown that conhydrine can be degraded in two stages by exhaustive methylation to trimethylamine, and a mixture of two products, an oil, CHO, bp. 157–159 °C@744 mmHg, and a crystalline",
+                "socre": 1.46260666847229
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write an article about the Upstream and Downstream products of 2-Pyridyl ketone 2000 words in chemical industry",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "664309",
+                "title": "Genomics",
+                "text": "sequence. This is needed as current DNA sequencing technology cannot read whole genomes as a continuous sequence, but rather reads small pieces of between 20 and 1000 bases, depending on the technology used. 3rd generation sequencing technologies such as PacBio or Oxford Nanopore routinly generate sequenceing reads >10 kb in length; however, they have a high error rate at approximately 15%. Typically the short fragments, called reads, result from shotgun sequencing genomic DNA, or gene transcripts (ESTs). Assembly can be broadly categorized into two approaches: \"de novo\" assembly, for genomes which are not similar to any sequenced in the past,",
+                "socre": 1.7041404247283936
+            },
+            {
+                "id": "20030774",
+                "title": "Third-generation sequencing",
+                "text": "out-of-sync. Quickly, the signal quality deteriorates as the read-length grows. In order to preserve read quality, long DNA molecules must be broken up into small segments, resulting in a critical limitation of second generation sequencing technologies. Computational efforts aimed to overcome this challenge often rely on approximative heuristics that may not result in accurate assemblies. By enabling direct sequencing of single DNA molecules, third generation sequencing technologies have the capability to produce substantially longer reads than second generation sequencing. Such advantage has critical implications for both genome science and the study of biology in general. However, due to various technical",
+                "socre": 1.6688015460968018
+            },
+            {
+                "id": "20030778",
+                "title": "Third-generation sequencing",
+                "text": "and humans are complex and have large numbers of long repeated regions. Short reads from second generation sequencing must resort to approximative strategies in order to infer sequences over long ranges for assembly and genetic variant calling. Pair end reads have been leveraged by second generation sequencing to combat these limitations. However, exact fragment lengths of pair ends are often unknown and must also be approximated as well. By making long reads lengths possible, third generation sequencing technologies have clear advantages. Epigenetic markers are stable and potentially heritable modifications to the DNA molecule that are not in its sequence. An",
+                "socre": 1.6864945888519287
+            },
+            {
+                "id": "14780429",
+                "title": "Hybrid genome assembly",
+                "text": "of interest. The advent of next generation sequencing has presented significant improvements in the speed, accuracy and cost of DNA sequencing and has made the sequencing of entire genomes a feasible process. There are many different sequencing technologies that have been developed by various biotechnology companies, each of which produce different sequencing reads in terms of accuracy and read length. Some of these technologies include Roche 454, Illumina, SOLiD, and IonTorrent. These sequencing technologies produce relatively short reads (50-700 bases) and have a high accuracy (>98%). Third generation sequencing include technologies as the PacBio RS system which can produce long",
+                "socre": 1.7559775114059448
+            }
+        ],
+        "source": "camelai",
+        "example_question": "How can we improve the accuracy and read length of DNA sequencing technologies to enable better identification of genetic variations and mutations, and advance their application in personalized medicine and agriculture?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "309229",
+                "title": "Programming language",
+                "text": "different bias over what is measured, have been proposed: Combining and averaging information from various internet sites, stackify.com reported the ten most popular programming languages as (in descending order by overall popularity): Java, C, C++, Python, C#, JavaScript, VB .NET, R, PHP, and MATLAB. A dialect of a programming language or a data exchange language is a (relatively small) variation or extension of the language that does not change its intrinsic nature. With languages such as Scheme and Forth, standards may be considered insufficient, inadequate or illegitimate by implementors, so often they will deviate from the standard, making a new",
+                "socre": 1.578919529914856
+            },
+            {
+                "id": "320478",
+                "title": "Python (programming language)",
+                "text": "to Python (commonly used to create games); PyQt and PyGTK, which bind Qt and GTK to Python respectively; and PyPy, a Python implementation originally written in Python. Python API documentation generators include: Since 2003, Python has consistently ranked in the top ten most popular programming languages in the TIOBE Programming Community Index where, , it is the third most popular language (behind Java, and C). It was selected Programming Language of the Year in 2007 and 2010. An empirical study found that scripting languages, such as Python, are more productive than conventional languages, such as C and Java, for programming",
+                "socre": 1.5559890270233154
+            },
+            {
+                "id": "12382813",
+                "title": "Measuring programming language popularity",
+                "text": "kinds of applications. Various methods of measuring language popularity, each subject to a different bias over what is measured, have been proposed: Several indices have been published: Measuring programming language popularity It is difficult to determine which programming languages are \"most widely used\" because what usage means varies by context. One language may occupy the greater number of programmer hours, a different one have more lines of code, a third may utilize the most CPU time, and so on. Some languages are very popular for particular kinds of applications. For example, COBOL is still strong in the corporate data center,",
+                "socre": 1.5601030588150024
+            },
+            {
+                "id": "6549134",
+                "title": "Scala (programming language)",
+                "text": "language, mainly because it was designed to be mainly a scripting language. , all JVM-based languages (Clojure, Groovy, Kotlin, Scala) are significantly less popular than the original Java language, which is usually ranked first or second, and which is also simultaneously evolving over time. The Popularity of Programming Language Index, which tracks searches for language tutorials, ranked Scala 15th in April 2018 with a small downward trend. This makes Scala the most popular JVM-based language after Java, although immediately followed by Kotlin, a JVM-based language with a strong upward trend ranked 16th. The TIOBE index of programming language popularity employs",
+                "socre": 1.5461137294769287
+            }
+        ],
+        "source": "platypus",
+        "example_question": "What are the most popular programming languages?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "6512614",
+                "title": "Lac du Bois (camp)",
+                "text": "and the French-speaking world. Business and meetings within the village are conducted exclusively in French. Since all staff members are successful second language learners themselves, whether they are native French or English speakers, they are able to provide an empathetic, patient, supportive and challenging environment for villagers learning their first foreign language. Elementary-aged kids can attend a one- or a two-week session. Middle schoolers can attend a one-, two-, or four-week session. (not for academic credit). High schoolers can attend for one, two, or four weeks. Four-week high school aged credit villagers can earn either the equivalent of one year",
+                "socre": 1.5131109952926636
+            },
+            {
+                "id": "9443243",
+                "title": "La Gamba",
+                "text": "soda (small restaurant), a convenience store and the only public phone in the village. This point also serves as the main point of reunion for those who wish to share time with others. The youth also meet into the small park built by a group of Canadians in 2006. Arcades are also an option in the convenience store. There is also a bar a little further from the center towards the Pan-American, and there is also a community center at the km 37 where they host karaoke nights, dances, arcades and a bar. The practice of evangelical events remains one",
+                "socre": 1.5429298877716064
+            },
+            {
+                "id": "9884305",
+                "title": "Club La Vela",
+                "text": "During summer and spring break, the club also features \"The Darkroom\", a venue for patrons under 18 years old, and the club periodically hosts \"Teenbashes\", on Sundays in which the club is open \"only\" to teens with no alcohol service. Because of its popularity during spring break, Club La Vela has been the focus of numerous media reports and events. MTV has made the club its home during numerous spring breaks over the past decade. The club is known for its bikini and wet T-shirt contests for women and \"hard body\" contests for men. Club La Vela has also been",
+                "socre": 1.5297648906707764
+            },
+            {
+                "id": "6512617",
+                "title": "Lac du Bois (camp)",
+                "text": "called mini-programs or mini-weekends) has welcomed eager learners of French for exploratory weekends throughout the academic year since the early 1970s. Each year a new theme is explored in depth through music, art, meals, skits and of course French. Though the Lac du Bois magic of the summer program lives on through these Village Weekends, the structure and activities are geared towards groups of students rather than individuals. Past themes have included \"l'Acadie\", \"le Maroc\", \"le Sud de la France\", \"le Moyen Age\", \"la Revolution Francaise\", \"l'Afrique\" and \"les Caraibes\". Village Weekends host school groups from across the country who",
+                "socre": 1.48652982711792
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "After a visit to the Teens Club, your teenagers will want nothing more than to come back to the Camping La Petite Camargue next year! Say this using Spanish.",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "10604229",
+                "title": "Transition metal dinitrogen complex",
+                "text": "bond is significantly weakened upon complexation with iron atoms with a low coordination number. The complex involved bidentate chelating ligands attached to the iron atoms in the Fe–N–N–Fe core, in which acts as a bridging ligand between the iron atoms. Increasing the coordination number of iron by modifying the chelating ligands and adding another ligand per iron atom showed an increase in the strength of the N–N bond in the resulting complex. It is thus suspected that Fe in a low-coordination environment is a key factor to the fixation of nitrogen by the nitrogenase enzyme, since its Fe–Mo cofactor also",
+                "socre": 1.8401219844818115
+            }
+        ],
+        "source": "CamelAI",
+        "example_question": "How does the metal coordination affect the catalytic activity of the metalloenzyme nitrogenase in converting atmospheric nitrogen into ammonia? Evaluate the role of the metal sites and their coordination environments in the enzymatic reaction mechanism, and propose potential strategies for engineering nitrogenase-derived catalysts with enhanced nitrogen fixation efficiency.",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "15232869",
+                "title": "Virtual Human Interaction Lab",
+                "text": "source of persuasive messages can powerfully influence attitudes and behaviors in various persuasive contexts. While most prior research on facial expressions involve some form of manual coding by human coders based on established facial coding systems (e.g., FACS), this methodology uses just a small webcam and computer software to predict an individual's errors and performance quality based only on facial features that are tracked and logged automatically. Using just the first five to seven minutes of facial feature data, researchers were able to predict a participant's performance on a 30-minute experimental task with up to 90% accuracy. There are countless",
+                "socre": 1.5455420017242432
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "How can I use MATLAB to generate a unique and complex slogan for our new AI-powered virtual assistant? The slogan should be able to capture the essence of the product and be challenging for AI systems to comprehend. Can you provide a code that can use machine learning algorithms to generate multiple slogan options and select the most suitable one based on predefined criteria?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "11846",
+                "title": "Artificial intelligence",
+                "text": "patient interactions. One study was done with transfer learning, the machine performed a diagnosis similarly to a well-trained ophthalmologist, and could generate a decision within 30 seconds on whether or not the patient should be referred for treatment, with more than 95% percent accuracy. According to CNN, a recent study by surgeons at the Children's National Medical Center in Washington successfully demonstrated surgery with an autonomous robot. The team supervised the robot while it performed soft-tissue surgery, stitching together a pig's bowel during open surgery, and doing so better than a human surgeon, the team claimed. IBM has created its",
+                "socre": 1.6085307598114014
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "How can we use AI to improve healthcare? Can you provide a Java code example that demonstrates the use of machine learning to predict patient readmissions?\nOne example could be implementing a machine learning model in Java that utilizes patient data such as demographics, medical history, and social determinants of health to predict the likelihood of a patient being readmitted to the hospital within 30 days of discharge. The model could be trained using a dataset of past patient records and outcomes, and then applied to new patient data to provide personalized recommendations and interventions to prevent readmissions. Can you provide a Java code snippet that demonstrates the implementation of such a model?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "2472307",
+                "title": "Umeboshi",
+                "text": "Umeboshi Umeboshi (Japanese: 梅干, pronounced ; literally \"dried \"ume\"\") are pickled \"ume\" fruits common in Japan. The word \"umeboshi\" is often translated into English as \"Japanese salt plums\", \"salt plums\" or \"pickled plums\". \"Ume\" (\"Prunus mume\") is a species of fruit-bearing tree in the genus \"Prunus\", which is often called a plum but is actually more closely related to the apricot. Umeboshi are a popular kind of \"tsukemono\" (pickles) and are extremely sour and salty. Sweet umeboshi, which are pickled with honey, also exist. They are usually served as side dishes for rice or eaten on rice balls (often without",
+                "socre": 1.3874289989471436
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Do you know where I can taste test a variety of umeshu in Tokyo?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "605631",
+                "title": "Communication complexity",
+                "text": "messages. Consider the following protocol: Assume that Alice and Bob both have access to the same random string formula_39. Alice computes formula_40 and sends this bit (call it \"b\") to Bob. (The formula_41 is the dot product in GF(2).) Then Bob compares \"b\" to formula_42. If they are the same, then Bob accepts, saying \"x\" equals \"y\". Otherwise, he rejects. Clearly, if formula_43, then formula_44, so formula_45. If \"x\" does not equal \"y\", it is still possible that formula_44, which would give Bob the wrong answer. How does this happen? If \"x\" and \"y\" are not equal, they must differ",
+                "socre": 1.4099911451339722
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "How can we use MATLAB to identify the key differences between a business correspondence and a casual communication? Can you provide examples of how these differences can be detected in text using JSON data? For instance, business correspondence may use more formal language and tone, while casual communication may use informal language and slang. How can we represent these differences in a JSON data code that can be used in MATLAB?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "15516968",
+                "title": "Kindle Direct Publishing",
+                "text": "to self-publishers. Amazon has been promoting to its authors the capability of publishing both e-books and paperbacks through the same platform. KDP's paperback option is called a \"beta feature\" on their website. Amazon has another self-publishing option, CreateSpace, that is still online and running so it is not clear if KDP will phase out CreateSpace; Amazon's website advertises that KDP has the advantage of linking a user's paperback and digital books in one place. Kindle Direct Publishing (KDP) was in open beta testing in late 2007 and the platform was promoted to established authors by e-mail and by advertisements at",
+                "socre": 1.4184951782226562
+            },
+            {
+                "id": "15516967",
+                "title": "Kindle Direct Publishing",
+                "text": "Kindle Direct Publishing Kindle Direct Publishing is Amazon.com's e-book publishing unit launched in November 2007, concurrently with the first Amazon Kindle device. Amazon launched Kindle Direct Publishing (KDP), originally called Digital Text Platform, to be used by authors and publishers to independently publish their books directly to Kindle and Kindle Apps worldwide. Authors can upload documents in several formats for delivery via Whispernet and charge between $0.99 and $200.00 for their works. These documents may be written in 34 languages. In 2016, Amazon also added a paperback option which uses print-on-demand technology with the goal of offering digital and print",
+                "socre": 1.3759210109710693
+            },
+            {
+                "id": "13657924",
+                "title": "Self-publishing",
+                "text": "to compete with large bookstore chains. It works by taking two Internet-delivered pdf files, one for the text and one for the cover, and then prints an entire paperback book in a matter of minutes, which then drops down a chute. Amazon's introduction of the \"Kindle\" and its self-publishing platform, \"Kindle Direct Publishing\" or KDP, in 2007 has been described as a tipping point in self-publishing, which \"opened the floodgates\". It was an \"exclusively electronic self-publishing platform\" which was e-book only, free for authors to upload their books, and gave authors control over how their books were priced as well",
+                "socre": 1.3622171878814697
+            }
+        ],
+        "source": "ShareGPT_V3",
+        "example_question": "Please give me a complete Word template to create paperback books for KDPShare Prompt",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "7129286",
+                "title": "Mary Ainsworth",
+                "text": "encountering stress. The Strange Situation Procedure is divided into eight episodes, lasting for three minutes each. In the first episode, the infant and his or her caregiver enter into a pleasant laboratory setting, with many toys. After one minute, a person unknown to the infant enters the room and slowly tries to make acquaintance. The caregiver leaves the child with the stranger for three minutes; and then returns. The caregiver departs for a second time, leaving the child alone for three minutes; it is then the stranger who enters, and offers to comfort the infant. Finally, the caregiver returns, and",
+                "socre": 1.4193083047866821
+            },
+            {
+                "id": "11389722",
+                "title": "Characters of Half-Life",
+                "text": "experiment is to make preparations in a room below the test chamber and initiate the Anti-Mass Spectrometer to run at 105%. Dr. Gina Cross also enters the same room to fix a jam in the specimen delivery system's lift mechanism, meaning they are both in the same place when the Resonance Cascade finally occurs. Following the disaster, the two team up to fight their way through the facility for survival. They escort Dr. Rosenberg to the surface to call the military for help and then, with the help of Dr. Richard Keller, manage to start a resonance reversal to prevent",
+                "socre": 1.389238953590393
+            },
+            {
+                "id": "7826607",
+                "title": "New England Skeptical Society",
+                "text": "to using phrases written on a card. Phrases were written on a card and the testers friend concentrated on the phrase. The results showed that the \"mind-reader\" did not understand the protocol, regardless that he had helped to write the protocol and agreed to it in advance. Specific phrases were agreed to, with exact words from that phrase were needed for a hit. The applicant instead of \"common phrases gave \"random thoughts\". According to Steven Novella, \"paranormal claims... represent an opportunity for the skeptical community to teach the public about the proper methods of science, the pitfalls of illogic and",
+                "socre": 1.3987987041473389
+            },
+            {
+                "id": "3733081",
+                "title": "Water memory",
+                "text": "that noted \"There are good and particular reasons why prudent people should, for the time being, suspend judgement\" and described some of the fundamental laws of chemistry and physics which it would violate, if shown to be true. Additionally, Maddox demanded that the experiments be re-run under the supervision of a hand-picked group of what became known as \"ghostbusters\", including Maddox, famed magician and paranormal researcher James Randi, and Walter W. Stewart, a chemist and freelance debunker at the U.S. National Institutes of Health. Under supervision of Maddox and his team, Benveniste and his team of researchers followed the original",
+                "socre": 1.398343563079834
+            }
+        ],
+        "source": "ShareGPT_V3",
+        "example_question": "For this session, please act like an eccentric scientist who loves to do strange and dangerous experiments. Stay in character at all times and do not write any other explanations or instructions.",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "14180319",
+                "title": "Dalit literature",
+                "text": "and of missionary activity. It resists the reduction of caste to class or to non-Brahminism and vividly describes and analyzes the contemporary workings of caste power.\" Asserting the importance of Dalit literature Arundhati Roy has observed: \"I do believe that in India we practice a form of apartheid that goes unnoticed by the rest of the world. And it is as important for Dalits to tell their stories as it has been for colonized peoples to write their own histories. When Dalit literature has blossomed and is in full stride, then contemporary (upper caste?) Indian literature's amazing ability to ignore",
+                "socre": 1.4647315740585327
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Can you shade light on \"Importance of studying literature in the context of Indian identity and culture\"",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "8621",
+                "title": "Algae",
+                "text": "air, soil, and in or on other organisms. Whether a spore is to grow into an organism depends on the combination of the species and the environmental conditions where the spore lands. The spores of freshwater algae are dispersed mainly by running water and wind, as well as by living carriers. However, not all bodies of water can carry all species of algae, as the chemical composition of certain water bodies limits the algae that can survive within them. Marine spores are often spread by ocean currents. Ocean water presents many vastly different habitats based on temperature and nutrient availability,",
+                "socre": 1.789911150932312
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Q:Fact 1: Spores may be dispersed by moving water, wind, or other organisms.  Fact 2: Most fungi disperse their spores by wind.  Given the two facts above, answer the question \" fungi do what with materials using moving water, wind, or other organisms.\" with the following options:  - loose soil  - allow growth  - disperse  - use oxygen  - mineralize  - grow  - recycling  - produce carbon\nA:",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "498579",
+                "title": "Visitor pattern",
+                "text": "the lambda function. Python is a dynamically-typed language and because of this cannot support method overloading. So the \"visit\" methods for the different model types need to have different names. Visitor pattern example. from abc import ABCMeta, abstractmethod NOT_IMPLEMENTED = \"You should implement this.\" class CarElement: class Body(CarElement): class Engine(CarElement): class Wheel(CarElement): class Car(CarElement): class CarElementVisitor: class CarElementDoVisitor(CarElementVisitor): class CarElementPrintVisitor(CarElementVisitor): car = Car() car.accept(CarElementPrintVisitor()) car.accept(CarElementDoVisitor()) Visiting front left wheel. Visiting front right wheel. Visiting back left wheel. Visiting back right wheel. Visiting body. Visiting engine. Visiting car. Kicking my front left wheel. Kicking my front right wheel. Kicking my back",
+                "socre": 1.3425648212432861
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nsystem:descriptive answer for cannot import name 'abc' from 'bson.py3compat' in python with proper code example and outputs.\n\nassistant: ",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "5279763",
+                "title": "Vehicle-to-grid",
+                "text": "electrical grid, lessen the need for new power plants, and reduce kids’ exposure to cancer-causing exhaust. At the University of California San Diego, V2G technology provider Nuvve is executing a pilot program called INVENT, funded by the California Energy Commission to install 50 V2G bi-directional charging stations around the campus. The program recently expanded to include a fleet of EVs for its free nighttime shuttle service, Triton Rides. In order to meet the 2030 target of 10 percent of Japan's energy being generated by renewable resources, a cost of $71.1 billion will be required for the upgrades of existing grid",
+                "socre": 1.66785728931427
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "What additional measures can ACME Corporation implement to promote the use of renewable energy sources, such as solar and wind power, for charging electric vehicles during transportation, particularly in areas where charging infrastructure is scarce, while still maintaining delivery efficiency and timeliness?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "4421719",
+                "title": "Long tail",
+                "text": "accessible to a wide range of viewers. The intersection of viral marketing, online communities and new technologies that operate within the long tail of consumers and business is described in the novel by William Gibson, \"Pattern Recognition\". In military thinking, John Robb applies the long tail to the developments in insurgency and terrorist movements, showing how technology and networking allows the long tail of disgruntled groups and criminals to take on the nation state and have a chance to win. A 2008 study by Anita Elberse, professor of business administration at Harvard Business School, calls the long tail theory into",
+                "socre": 1.271208643913269
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "which long tail  customer are newly engaged this month. ",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "5083084",
+                "title": "Luzhou",
+                "text": "tons of synthetic ammonia. It is one of the 500 largest national enterprises. Tianhua Co, Ltd is a key enterprise which brings in 0.3 million tons of synthetic ammonia and 0.6 million tons of carbamide, processing two sets of chemical fertilizer devices with world technical levels. Luzhou Chemical Factory participates in military and civil chemical production. State-owned Torch Chemical Factory is the only producer of \"801\" . It gained the national quality golden award, surpassing the America Standard. Luzhou is a tourist destination; specific scenic spots include Yuchan in Luxian county, Fobao in Hejiang county, Mt. Fangshan in Jiangyang county,",
+                "socre": 1.601073145866394
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Give me an introduction over 200 words for Daming Ruiheng Chemical Co. LTD, a chemical company in Daming county hebei provice china 056900  CHINA China",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "4303",
+                "title": "Apple Inc.",
+                "text": "employed the same technology to create iDVD for the consumer market. In July 2001, Apple acquired Spruce Technologies, a PC DVD authoring platform, to incorporate their technology into Apple's expanding portfolio of digital video projects. In 2002, Apple purchased Nothing Real for their advanced digital compositing application Shake, as well as Emagic for the music productivity application Logic. The purchase of Emagic made Apple the first computer manufacturer to own a music software company. The acquisition was followed by the development of Apple's consumer-level GarageBand application. The release of iPhoto in the same year completed the iLife suite. Mac OS",
+                "socre": 1.5170050859451294
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Question: What product did Apple release the same year Google was established?\n\nAnswer: Let's think step by step.",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "20465092",
+                "title": "Science education in England",
+                "text": "combined science A, science is delivered in the three traditional parts of biology, chemistry and physics. Like AQA's trilogy, each science part is broken into topics in combined science A's specification document , but unlike AQA combined science, practicals are suggested rather than specified, although practicals are still compulsory (the same goes for combined science B). The GCSE combined science A exam is made up of six papers (each one hour and ten minutes): two each for biology, chemistry and physics respectively. In combined science B, the science curriculum is delivered in four parts: biology, chemistry, physics and combined science.",
+                "socre": 1.540352702140808
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Tell me about aqa gcse biology paper 2\n",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "320460",
+                "title": "Python (programming language)",
+                "text": "to delimit blocks, and semicolons after statements are optional. It has fewer syntactic exceptions and special cases than C or Pascal. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks. An increase in indentation comes after certain statements; a decrease in indentation signifies the end of the current block. Thus, the program's visual structure accurately represents the program's semantic structure. This feature is also sometimes termed the off-side rule. Python's statements include (among others): Python does not support tail call optimization or first-class continuations, and, according to Guido van Rossum, it never will. However, better support",
+                "socre": 1.4711307287216187
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nuser: descriptive answer for semicolon in python in python with proper code examples and outputs.\nassistant: ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "3133778",
+                "title": "Bottom crawler",
+                "text": "have used other technologies from the sea surface, such as moored barges and tension leg platforms. Bottom crawler A bottom crawler is an underwater exploration and recovery vehicle. It is designed to sink to the bottom of a body of water, where it moves about using traction against the bottom with wheels or tracks. It is usually tethered to a surface ship by cables providing power, control, video, and lifting capabilities, but this is not essential. Such devices have been proposed for use in recovering deep seabed minerals, such as manganese nodules. These also have been considered since the late",
+                "socre": 1.4467623233795166
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "What are Crawlers and how do They Work?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "6570181",
+                "title": "TUTOR (programming language)",
+                "text": "continuation lines. This is illustrated in the following example, from page S5 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: The same syntax was used for codice_31, codice_32 blocks with semantics comparable to while loops in conventional programming languages. This is illustrated in the following example, from page S6 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: Note that the codice_33 and codice_34 commands are somewhat analogous to the codice_35 and codice_36 statements of languages based on C, except that they must sit at the indenting",
+                "socre": 1.5573407411575317
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nuser: descriptive answer for np.sort descending in python with proper code example and outputs.\nassistant: ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "7124376",
+                "title": "Music City Star",
+                "text": "ride increase of 45 percent at 1,225 per day. A proposed expansion of the system to Clarksville and Ashland City is projected to cost $525 million. Music City Star The Music City Star is a commuter rail service running between Nashville and Lebanon, Tennessee. The service uses the existing track of the Nashville and Eastern Railroad. The line stops at seven stations: Riverfront, Donelson, Hermitage, Mt. Juliet, Martha, Hamilton Springs and Lebanon. The operation covers of rail line. Service began on September 18, 2006. The Star is considered a \"starter\" project to demonstrate the effectiveness of commuter rail service to",
+                "socre": 1.3739289045333862
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "share a 5-day itinerary for a trip to nashville from san francisco",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6440232",
+                "title": "Propiolic acid",
+                "text": "with hydrazine to form pyrazolone. It forms a characteristic explosive solid upon treatment to its aqueous solution with ammoniacal silver nitrate. An amorphous explosive precipitate forms with ammoniacal cuprous chloride. Propiolates are esters or salts of propiolic acid. Common examples include methyl propiolate and ethyl propiolate. Propiolic acid Propiolic acid is the organic compound with the formula HCCOH. It is the simplest acetylenic carboxylic acid. It is a colourless liquid that crystallises to give silky crystals. Near its boiling point, it decomposes. It is soluble in water and possesses an odor like that of acetic acid. It is prepared commercially",
+                "socre": 1.519335150718689
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write an article about the Safety of 2-HYDROXY-3-PYRAZINECARBOXYLIC ACID 2000 words in chemical industry",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "16925494",
+                "title": "2016 United Kingdom European Union membership referendum",
+                "text": "Oxford Economics for the Law Society of England and Wales has suggested that Brexit would have a particularly large negative impact on the UK financial services industry and the law firms that support it, which could cost the law sector as much as £1.7bn per annum by 2030. The Law Society's own report into the possible effects of Brexit notes that leaving the EU would be likely to reduce the role played by the UK as a centre for resolving disputes between foreign firms, whilst a potential loss of \"passporting\" rights would require financial services firms to transfer departments responsible",
+                "socre": 1.4896190166473389
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Write a 250-word article summarizing the changes brought about by Brexit.",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "11581473",
+                "title": "Zeolitic imidazolate framework",
+                "text": "there are factors other than just pore size that need to be considered when determining how effective zeolites will be at carbon capture. The first is basicity, which can be created by doing an alkali metal cation exchange. The second is the Si/Al ratio which impacts the cation exchange capacity. To get a higher adsorption capacity, there must be a lower Si/Al ratio in order to increase the cation exchange capacity. Zif’s 68, 69, 70, 78, 81, 82, 95, and 100 have been found to have very high uptake capacity, meaning that they can store a lot of carbon dioxide",
+                "socre": 1.7527031898498535
+            }
+        ],
+        "source": "CamelAI",
+        "example_question": "How does the ionic radius of the extra-framework cation in zeolites affect the adsorption properties of the zeolite? Use computational methods to investigate the relationship between the adsorption energy and the ionic radius of extra-framework cations in different types of zeolites, and provide a detailed explanation of your findings.",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "15768036",
+                "title": "Duoyuan Global Water",
+                "text": "water treatment and R&D center. Duoyuan Global Water, Inc. becomes the only water treatment equipment manufacturing company from China listed on the New York Stock Exchange, with an initial public offering on June 29 of $16.00 per share. Duoyuan has announced the resignation of four members of the company's Board of Directors amidst allegations of fraudulent internal company controls. Duoyuan has engaged international law firm Baker & McKenzie and an international accounting firm to conduct an internal investigation and review of the company. Although Duoyuan Global Water has been accused of securities fraud in a class action lawsuit against the",
+                "socre": 1.5611711740493774
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Give me an introduction over 200 words for shandong jiahua water treatment technology, a chemical company in China",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "6285253",
+                "title": "Behavior-driven development",
+                "text": "containing the scenario and parsing it into clauses (a set-up clause and then three event triggers with verifiable conditions). JBehave then takes these clauses and passes them on to code that is capable of setting a test, responding to the event triggers and verifying the outcome. This code must be written by the developers in the project team (in Java, because that is the platform JBehave is based on). In this case, the code might look like this: private Game game; private StringRenderer renderer; @Given(\"a $width by $height game\") public void theGameIsRunning(int width, int height) { @When(\"I toggle the cell",
+                "socre": 1.4840729236602783
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "Let's add an extra layer of complexity to this puzzle game! Can you solve the following riddles to find out some behavioral interview questions and coding challenges for a Java developer role while also adhering to the requirement of incorporating agile methodologies into your solution? Additionally, can you devise a set of specific Shell commands to conduct technical interviews for Java programming positions while also ensuring that the commands align with DevOps practices? \n1. I am a five-letter word. Take away two and I become one. What word am I?\n2. What has a heart that doesn't beat?\n3. I am always hungry, I must always be fed. The finger I touch, will soon turn red. What am I?\nOnce you have solved these riddles, use the first letter of each answer to form the name of a website where you can find examples of behavioral interview questions and coding challenges for a Java developer role. Furthermore, ensure that the website you come up with is equipped with an automated testing framework for continuous integration and continuous deployment of Java-based applications. As for the specific Shell commands, rearrange the letters in the answer to the fourth riddle to reveal a command that can be used for technical interviews for Java programming positions while also adhering to industry-standard security protocols. Best of luck!",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "18649993",
+                "title": "JASBUG",
+                "text": "Team, part of the Department of Homeland Security, issued ICS-ALERT-15-041-01, warning control systems owners that they should expedite applying critical JASBUG fixes. Microsoft released two patches, MS15-011 and MS15-014, to address JASBUG on the same day the vulnerability was disclosed. These fixes took Microsoft over a year to develop and deploy due to the complexity of the JASBUG vulnerability. At the time of disclosure, more than 300 million computers were believed to be vulnerable to the exploit. JASBUG was disclosed to the public by Microsoft as a part of \"Patch Tuesday,\" on February 10th, 2015. The vulnerability was initially reported",
+                "socre": 1.4224791526794434
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Improve the following message:\"RSSP-90649 can be released immediately!\" ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "5172760",
+                "title": "Mule (coin)",
+                "text": "Mule (coin) In numismatics, a mule is a coin or medal minted with obverse and reverse designs not normally seen on the same piece. These can be intentional or produced by error. This type of error is highly sought after, and examples can fetch high prices from collectors. The earliest mules are found among ancient Greek and Roman coins. Opinion is divided between those who think that they are accidental, the result of an incorrect combination of a new die with one that had officially been withdrawn from use, or the work of coiners working with dies stolen from an",
+                "socre": 1.8025801181793213
+            },
+            {
+                "id": "5172762",
+                "title": "Mule (coin)",
+                "text": "this coin was intentionally struck by a mint employee, however the mint confirmed in July 2000 that the coin was a legitimate error, created by the accidental replacement of a cracked Sacagawea obverse die with a Washington obverse die. Several thousand of the coins were reported to have been minted before the error was discovered, and mint employees recovered and destroyed most of them. As of July 2017, 16 are publicly known to exist and have been certified. The highest sale price for one of the coins was paid for mule #12, known as the \"Stacks Bowers ANA\" specimen (NGC",
+                "socre": 1.691572904586792
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Given the question: The exercise is to decide whether the question accepts the proposed suggestion as a correct answer. If yes, write \"True\", otherwise write \"False\". Question: what is a mule in coins Suggestion: In numismatics , a mule is a coin or medal minted with obverse and reverse designs not normally seen on the same piece.\nThe answer is:",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "1675344",
+                "title": "Intervertebral disc",
+                "text": "for herniated discs range from physical therapy to surgery. Other degeneration of the vertebral column includes diffuse idiopathic skeletal hyperostosis (DISH) which is the calcification or ossification of the ligaments surrounding the vertebrae. This degeneration causes stiffness and sometimes even curvature in the lumbar and thoraco-lumbar spinal region. While this may not cause pain in some people, in others it may cause chronic pain. Other spinal disorders can affect the morphology of intervertebral discs. For example, patients with scoliosis commonly have calcium deposits (ectopic calcification) in the cartilage endplate and sometimes in the disc itself. Herniated discs are also found",
+                "socre": 1.414390206336975
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "What can you tell me about circumbinary discs",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "10422628",
+                "title": "Tough movement",
+                "text": "\"difficult\", \"dull\", \"easy\", \"educational\", \"embarrassing\", \"essential\", \"excellent\", \"exhausting\", \"expensive\", \"fashionable\", \"fine\", \"fun\", \"good\", \"great\", \"hard\", \"horrible\", \"ideal\", \"illegal\", \"important\", \"impossible\", \"impressive\", \"instructive\", \"interesting\", \"irritating\", \"loathsome\", \"necessary\", \"nice\", \"odd\", \"painful\", \"pleasant\", \"pleasurable\", \"rare\", \"risky\", \"safe\", \"simple\", \"strange\", \"tedious\", \"terrible\", \"tiresome\", \"tough\", \"tricky\", \"unpleasant\", \"useful\", and \"weird\". This construction is also possible with noun phrases like \"a pleasure\", \"a breeze\", or \"a cinch\": and with the verb \"take\": Similar constructions are possible in Dutch, but with a much more limited range of predicates (van der Auweraa and Noëla 2011): In early transformational grammar (such as Rosenbaum 1967) , this construction was analyzed",
+                "socre": 1.4454095363616943
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Identify the topic given these keywords: 'fuck', 'open', 'account', 'also', 'know', 'est', 'not', 'issue', 'already', 'collapse', 'company', 'banking', 'crypto', 'asset', 'take', 'start', 'happen', 'big', 'bear', 'bank', 'crash', 'say', 'people', 'make', '0', 'week', 'need', 'fail', 'money', 'bitcoin', 'stock', 'see', 'not', 'still', 'crypto', 'go', 'many', 'shit', 'right', 'way', 'buy', 'yield', 'live', 'close', 'make', 'time', 'go', 'try', 'support', 'hear', 'watch', 'system', 'continue', 'today', 'actually', 'well', 'bitcoin', 'like', 'good', 'daily', 'problem', 'come', 'financial', 'idea', 'look', 'hold', 'k',",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "13595370",
+                "title": "National Art Museum of Sport",
+                "text": "the elegant horse-racing scenes of Fay Moore and Marilyn Newmark, depicting sport has inspired artists particularly those who want to capture the motion and emotion of sport. In America, a country celebrated for hard work and hard play, sport art has had an especially vigorous history. Many of the most renowned artists- Thomas Eakins, Winslow Homer, and George Bellows-were active sports persons themselves and numbered among their friends leading athletes, fishermen and hunters. For them, as for many others, the multifaceted drama of sport was both a challenge and inspiration, the generating force that led to unforgettable works. The National",
+                "socre": 1.7392213344573975
+            },
+            {
+                "id": "13595375",
+                "title": "National Art Museum of Sport",
+                "text": "& Motion: Racing to the Finish Line\" exhibition that featured one of the largest collections of Mina Papatheodorou-Valyraki's work to be exhibited in the US. National Art Museum of Sport The National Art Museum of Sport (NAMOS) was a fine art museum that focused on a sport theme. Sport art captures emotion: the anxiety of competition, the joy of winning, the agony of defeat. It depicts internal conflict: the pitting of honor and sportsmanship versus the desire to win, or the struggle to maintain resolve in the face of overwhelming odds, pain and fatigue. Whether one thinks of the athletic",
+                "socre": 1.8577606678009033
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Visiting museum was an emotional experience for the old veteran, he hid it best he could but he began to what?\nOptions:\n- cry\n- whisper\n- appriciation\n- take pictures\n- feeling proud\nLet's do it gradually: A person began to cry by having an emotional experience. By doing the best as he could, the old veteran began to cry because visiting museum was an emotional experience for him.... So the answer is cry.\n\nThe ball was hit over a boundary and struck an audience member. What kind of game were they playing?\nOptions:\n- sporting event\n- sporting\n- basketball\n- society\n- ranch country\nLet's do it gradually: Audience are present in a sporting event. A sporting event could involve a ball. A sporting event can be any game.... So the answer is sporting event.\n\nEverybody seemed to have a horse not just the regular gamblers, which event always brings out the biggest crowds to the sport?\nOptions:\n- race track\n- kentucky derby\n- american southwest\n- triple crown\n- horse derby\n",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "4745699",
+                "title": "International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use",
+                "text": "same region as the previous rapporteur. The same procedure described in Step 1 is used to address the consultation results into the \"Step 2 Final Document\". The draft document to be generated as a result of the Step 3 phase is called Step 4 Experts Document. If industry and regulatory EWG members agree on the alterations as a result of the consultation, the Step 4 Experts Document is signed by the EWG regulatory experts only (\"Step 4 Experts Signoff\") and submitted to the SC to request adoption as Step 4 of the ICH process. Step 4 is reached when the",
+                "socre": 1.2039293050765991
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Whats the steps for fine tune you in document question answering downstream task ?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "4885572",
+                "title": "Retrosynthetic analysis",
+                "text": "to produce the desired product. In this case, the cyanide anion is the synthetic equivalent for the COOH synthon, while benzyl bromide is the synthetic equivalent for the benzyl synthon. The synthesis of phenylacetic acid determined by retrosynthetic analysis is thus: In fact, phenylacetic acid has been synthesized from benzyl cyanide, itself prepared by the analogous reaction of benzyl chloride with sodium cyanide. Manipulation of functional groups can lead to significant reductions in molecular complexity. Numerous chemical targets have distinct stereochemical demands. Stereochemical transformations (such as the Claisen rearrangement and Mitsunobu reaction) can remove or transfer the desired chirality thus",
+                "socre": 1.6922657489776611
+            },
+            {
+                "id": "11174535",
+                "title": "Phenylalanine ammonia-lyase",
+                "text": "more electrophilic. It is formed by cyclization and dehydration of conserved Ala-Ser-Gly tripeptide segment. The first step of MIO formation is a cyclization-elimination by an intramolecular nucleophilic attack of the nitrogen of Gly204 at the carbonyl group of Ala202. A subsequent water elimination from the side chain of Ser203 completes the system of crossconjugated double bonds. Numbers are given for the phenylalanine ammonia lyase from \"Petroselinum\" \"crispum\" (PDB 1W27). Although MIO is a polypeptide modification, it was proposed to call it a prosthetic group, because it has the quality of an added organic compound. PAL is inhibited by trans-cinnamic acid,",
+                "socre": 1.7099943161010742
+            },
+            {
+                "id": "11174536",
+                "title": "Phenylalanine ammonia-lyase",
+                "text": "and, in some species, may be inhibited by \"trans-\"cinnamic acid derivatives. The unnatural amino acids -Phe and -Tyr, the enantiomeric forms of the normal substrate, are competitive inhibitors. Phenylalanine ammonia lyase is composed of four identical subunits composed mainly of alpha-helices, with pairs of monomers forming a single active site. Catalysis in PAL may be governed by the dipole moments of seven different alpha helices associated with the active site. The active site contains the electrophilic group MIO non-covalently bonded to three helices. Leu266, Asn270, Val269, Leu215, Lys486, and Ile472 are located on the active site helices, while Phe413, Glu496,",
+                "socre": 1.6523576974868774
+            },
+            {
+                "id": "20351976",
+                "title": "Benzophenone imine",
+                "text": "to synthesize benzophenone imine via a reaction using benzophenone ammonia. A chemical pure-grade ammonia gas is added to a benzophenone solution, forming PhC=NH. After sodium hydroxide pellets are added to the solution, the PhC=NH is neutralized, generating the expected benzophenone imine. Primary amines can be protected benzophenone imine, and the protected amines are stable in flash chromatography. Buchwald-Hartwig amination is a very important kind of reaction for coupling aromatic halide and amine to form carbon-nitrogen bonds with the help of palladium-involved catalysts. In order to obtain anilines, ammonia is required in this reaction. However, ammonia can bind to palladium tightly,",
+                "socre": 1.7037478685379028
+            }
+        ],
+        "source": "camelai",
+        "example_question": "What are the optimal conditions and chemical reactions involved in the successful synthesis of phenylalanine from benzyl chloride and ammonia, and what are the potential challenges and drawbacks of this synthetic pathway?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "5856362",
+                "title": "Full course dinner",
+                "text": "already filled with food in individual portions. Often, guests have an opportunity to choose between vegetarian or meat entrées. There is no opportunity to request something different or to ask for more than a single serving. Table settings can be elaborate. More formal settings sometimes include all silverware and glassware that will be needed for the entire meal, and lay out the silverware so that the outermost tools are used for the dishes appearing earliest on the menu. In this scheme, when diners are served the first course, they can depend on finding the correct implement at the outermost edge",
+                "socre": 1.5573697090148926
+            },
+            {
+                "id": "6362745",
+                "title": "Thanksgiving dinner",
+                "text": "Many African Americans and Southerners serve baked macaroni and cheese and collard greens, along with chitterlings and sweet potato pie, while some Italian-Americans often have lasagne on the table and Ashkenazi Jews may serve noodle kugel, a sweet dessert pudding. Other Jewish families may consume foods commonly associated with Hanukkah, such as latkes or a sufganiyah; the two holidays are usually in close proximity and on extremely rare occasions overlap. It is not unheard of for Mexican Americans to serve their turkey with mole and roasted corn. In Puerto Rico, the Thanksgiving meal is completed with arroz con gandules (rice",
+                "socre": 1.506110429763794
+            },
+            {
+                "id": "6362741",
+                "title": "Thanksgiving dinner",
+                "text": "with the impact of immigration. Basic \"Thanksgiving\" ingredients, or the intent of the holiday, can be transformed to a variety of dishes by using flavors, techniques, and traditions from their own cuisines. Others celebrate the holiday with a variety of dishes particularly when there is a crowd to be fed, guests' tastes vary and considering the financial means available. Many offerings are typically served alongside the main dish—so many that, because of the amount of food, the Thanksgiving meal is sometimes served midday or early afternoon to make time for all the eating, and preparation may begin at dawn or",
+                "socre": 1.6967369318008423
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "Create a comprehensive to-do list for Thanksgiving, taking into account the dietary restrictions and preferences of each guest, the availability of locally sourced and organic ingredients, the need to minimize food waste, and the desire to incorporate cultural and historical traditions into the menu. Additionally, include a detailed schedule for meal preparation and serving, accounting for any necessary adjustments due to unforeseen circumstances such as weather or unexpected guests. Finally, provide a budget breakdown for the entire meal, including decorations and any necessary equipment or rental fees. The to-do list should be presented in a visually appealing format, such as a Gantt chart or a spreadsheet, and should be accompanied by detailed instructions and recipes for each dish.",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6570172",
+                "title": "TUTOR (programming language)",
+                "text": "a student response to be correct if it matched, while codice_12 judged a student response to be incorrect. The tag fields on the codice_11 and codice_12 commands consisted of lists of optional, required and alternative words. consider this example from exercise 4-1 in the 1973 \"TUTOR User's Memo\": This would match answers such as \"it is a right triangle\" or \"it's a triangular figure\" or just \"rt triangle\". It would not match \"sort of triangular\" because the words \"sort of\" are not listed as ignored, and it would not match \"triangle, right?\" because the order is wrong. The pattern matching",
+                "socre": 1.4932621717453003
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nsystem:descriptive answer for python 3.9 ModuleNotFoundError: No module named 'distutils.sysconfig' in python with proper code examples and outputs.\n\nassistant: ",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "12394054",
+                "title": "Phantom Punch (film)",
+                "text": "14-1 in fights around the world between 1966 and 1969. The mob tells Caesar to tell Sonny to start taking dives and also inform him of the meetings between Sonny and Farah. Caesar confronts Farah and physically attacks her in jealous anger then throws her out. Out of spite he lies to the mob that Sonny refuses to take a dive, hoping that Sonny will end up getting hurt because of this. In 1971 Geraldine returns home from a trip to find Sonny dead. The police officially declare it a heroin overdose but there remains doubt about this explanation. Phantom",
+                "socre": 1.513774037361145
+            },
+            {
+                "id": "12394050",
+                "title": "Phantom Punch (film)",
+                "text": "he actually bet their money on Liston and made them $1.2 million. Liston is approached by the police and teased about his inability to write a message with his signature because of his lack of education. They attempt to pin a drunk driving charge on him, even though he is walking, and another fistfight ensues. That night in jail he is seriously beaten by the correction officers and told to get out of town or he will be killed. Novak takes him to Las Vegas, where Sonny and Geraldine buy a new house in December 1962 as the relationship between",
+                "socre": 1.4732450246810913
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Answer the following question. The Phantom Punch or The Punch That Never Was cost who his title?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "3995537",
+                "title": "Bread and Circuses (Star Trek: The Original Series)",
+                "text": "in Rome. Septimus explains that he was a senator until he heard the \"words of the Sun\" and was made a slave. Although another slave, Flavius (Rhodes Reason), suggests killing the landing party, Septimus decides the landing party poses no threat. Kirk reveals that he is looking for Captain Merik, who the slaves suggest is Mericus, Master of the Games. Flavius, a former gladiator, offers to help and leads Kirk as his party to the nearby city. They are soon captured and brought before Mericus, who is in fact Merik, and the Proconsul Claudius Marcus (Logan Ramsey), who invites the",
+                "socre": 1.7885189056396484
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write a short character card of the slave girl from the Star Trek episode bread and circuses",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "16481007",
+                "title": "Timeline of the Syrian Civil War (May–August 2012)",
+                "text": "killed by the end of the day. The Syrian ambassador to Iraq, Nawaf al-Fares defected to the opposition. He is the most senior diplomat to defect so far in the entire conflict. He gave a statement to Al Jazeera, saying \"I urge all honest members of this party to follow my path because the regime has turned it to an instrument to kill people and their aspiration to freedom.\" Fares also called upon the military to join the ranks of the Syrian revolution. His defection dealt a \"moral and political blow\" to the Syrian Government and another diplomat, the Syrian",
+                "socre": 2.2084169387817383
+            },
+            {
+                "id": "16642005",
+                "title": "Nawaf al-Fares",
+                "text": "were killing civilians and that he had joined the ranks of the revolution of the Syrian people. He further called for the members of the Syrian military to join this revolution and to save the country and the citizens. On 12 July 2012, Iraqi Foreign Minister Hoshiyar Zebari told reporters in Paris that Nawaf al Fares is in Qatar. The Syrian Foreign and Expatriates Ministry in Damascus issued a statement on 12 July 2012 dismissing Fares. The declaration stated that Fares \"has been relieved of his duties\" and \"no longer has any link with the Syrian Embassy in Baghdad.\" It",
+                "socre": 2.1535487174987793
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "What is the most logical completion of this news story?.\n\nThe most senior Syrian diplomat to defect and publicly embrace his country's uprising is calling for a foreign military intervention to topple President Bashar al-Assad. He also accused the Damascus regime of collaborating with al Qaeda militants against opponents both in Syria and in neighboring Iraq. \"I support military intervention because I know the nature of this regime,\" Nawaf al-Fares told CNN. \"This regime will only go by force.\" Until a few days ago, Fares was Syria's top man in Baghdad. His defection marks a shocking about-face for an official who occupied a critically important post. Until Fares was sent to Iraq in 2008, Syria had no ambassador stationed in Baghdad for more than 20 years.\n\nThe militants started coming from all over the world through Syria, under the eyes of the Syrian secret police, which are directly responsible for the killing of thousands of Iraqis in Iraq as well as",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "9048476",
+                "title": "Packaging engineering",
+                "text": "Packaging engineering Packaging engineering, also package engineering, packaging technology and packaging science, is a broad topic ranging from design conceptualization to product placement. All steps along the manufacturing process, and more, must be taken into account in the design of the package for any given product. Package engineering is an interdisciplinary field integrating science, engineering, technology and management to protect and identify products for distribution, storage, sale, and use. It encompasses the process of design, evaluation, and production of packages. It is a system integral to the value chain that impacts product quality, user satisfaction, distribution efficiencies, and safety. includes",
+                "socre": 1.4880999326705933
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Generate a new product idea related to food packaging.",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "270917",
+                "title": "Meditation",
+                "text": "systematic review and meta-analysis of the effects of meditation on empathy, compassion, and prosocial behaviors found that meditation practices had small to medium effects on self-reported and observable outcomes, concluding that such practices can \"improve positive prosocial emotions and behaviors\". Preliminary studies showed a potential relationship between meditation and job performance, resulting from cognitive and social effects. Concerns have been raised on the quality of much meditation research, including the particular characteristics of individuals who tend to participate. Evidence from neuroimaging studies suggests that the categories of meditation, as defined by how they direct attention, appear to generate different brainwave",
+                "socre": 1.7269176244735718
+            },
+            {
+                "id": "9744214",
+                "title": "Research on meditation",
+                "text": "brain weight and volume. This phenomenon can be explained by structural changes in the brain, namely, a loss of grey matter. Some studies over the last decade have implicated meditation as a protective factor against normal age-related brain atrophy. The first direct evidence for this link emerged from a study investigating changes in the cortical thickness of meditators. The researchers found that regular meditation practice was able to reduce age-related thinning of the frontal cortex, albeit, these findings were restricted to particular regions of the brain. A similar study looked to further expand on this finding by including a behavioural",
+                "socre": 1.8088569641113281
+            },
+            {
+                "id": "9744215",
+                "title": "Research on meditation",
+                "text": "component. Consistent with the previous study, meditators did not show the expected negative correlation between grey matter volume and age. In addition, the results for meditators on the behavioural test, measuring attentional performance, were comparable across all age groups. This implies that meditation can potentially protect against age-related grey matter loss and age-related cognitive decline. Since then, more research has supported the notion that meditation serves as a neuroprotective factor that slows age-related brain atrophy. Still, all studies have been cross sectional in design. Furthermore, these results merely describe associations and do not make causal inferences. Further work using longitudinal",
+                "socre": 1.8606802225112915
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "Can you analyze the relationship between mindfulness meditation and cognitive performance, provide a statistical report highlighting the significance of this relationship, and incorporate demographic variables into the analysis? Additionally, can you explain the methodology used to collect and analyze the data, as well as any potential limitations in the study design, including the possibility of confounding variables?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "11261518",
+                "title": "Michael Tanenhaus",
+                "text": "who are not quite sure which items to manipulate. In the second scene the subject clearly understands the sentence more easily. In this scene the pencil is replaced by another apple on a napkin. This disambiguates the phrase because the subject understands that on the towel is modifying the apple, and is not referring to a destination. The results strongly support the hypothesis that language comprehension, specifically at the syntactic level, is informed by visual information. This is a clearly non-modular result. These results also seem to support Just and Carpenter’s “Strong Eye Mind Hypothesis” that rapid mental processes which",
+                "socre": 1.8757927417755127
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Pick which sentence is not logical.\nOptions:\n- Sentence A: \"One can use oven to make popcorn easily at home\"\n- Sentence B: \"One can use oven to make silicon chip easily at home\"\n\nHmmm, let me think. I want to lay out the solution in details.",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "5604167",
+                "title": "Shell (computing)",
+                "text": "from the keyboard or passing keystrokes on as data to be processed. A feature of many command-line shells is the ability to save sequences of commands for re-use. A data file can contain sequences of commands which the CLI can be made to follow as if typed in by a user. Special features in the CLI may apply when it is carrying out these stored instructions. Such batch files (script files) can be used repeatedly to automate routine operations such as initializing a set of programs when a system is restarted. Batch mode use of shells usually involves structures, conditionals,",
+                "socre": 1.691366195678711
+            },
+            {
+                "id": "4604957",
+                "title": "Comparison of command shells",
+                "text": "defined for the command. Completion can be set up to suggest completions by calling a shell function. The fish shell additionally supports parsing of man pages to extract parameter information that can be used to improve completions/suggestions. In PowerShell, all types of commands (cmdlets, functions, script files) inherently expose data about the names, types and valid value ranges/lists for each argument. This metadata is used by PowerShell to automatically support argument name and value completion for built-in commands/functions, user-defined commands/functions as well as for script files. Individual cmdlets can also define dynamic completion of argument values where the completion values",
+                "socre": 1.680356740951538
+            },
+            {
+                "id": "1321179",
+                "title": "National Center for Biotechnology Information",
+                "text": "example, BLAST is a sequence similarity searching program. BLAST can do sequence comparisons against the GenBank DNA database in less than 15 seconds. The \"NCBI Bookshelf is a collection of freely accessible, downloadable, on-line versions of selected biomedical books. The Bookshelf covers a wide range of topics including molecular biology, biochemistry, cell biology, genetics, microbiology, disease states from a molecular and cellular point of view, research methods, and virology. Some of the books are online versions of previously published books, while others, such as Coffee Break, are written and edited by NCBI staff. The Bookshelf is a complement to the",
+                "socre": 1.6440386772155762
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "What are some useful Shell commands for analyzing biological data? For example, how can I use the BLAST command to compare DNA sequences? And are there any Shell commands for analyzing protein structures or performing phylogenetic analyses? Additionally, how can I use the awk command to manipulate and extract data from large text files, such as those generated by genome sequencing experiments? And are there any other useful Shell commands that can aid in the analysis of biological data?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "5693848",
+                "title": "Dave Knudson (guitarist)",
+                "text": "on every single song (except the electronic interludes.) Dave is also known for his use of the Line 6 DL-4 delay modeller's sampler capability. The DL-4 can be used to record a phrase which can then be played back instantly by stepping on one of the DL-4's buttons. The sample can also be reversed, slowed down or sped up, effects which Dave makes use of both in the studio (notably on Menos El Oso), but can also be replicated live. Dave can often be heard recording and preparing the samples before the start of songs when playing live. On top",
+                "socre": 1.4068726301193237
+            },
+            {
+                "id": "3576105",
+                "title": "Gabe Kapler",
+                "text": "philosophy that can’t be easily altered or improved. While mining for best practices, we have overarching themes and philosophies, but we don’t want to say, ‘This is what we believe’ and get so dug in that we’re not capable of being nimble as new studies present better ways to approach problems and development. That flexibility is a thought process that we have to constantly talk about it with players and staff.\" Kapler was one of the favorites and a finalist to become the new Dodgers manager following the departure of Don Mattingly, but lost out to Dave Roberts prior to",
+                "socre": 1.360848069190979
+            },
+            {
+                "id": "2840986",
+                "title": "Tom Peters",
+                "text": "business problems with as little business-process overhead as possible, and empowering decision-makers at multiple levels of a company. The December 2001 issue of \"Fast Company\" quoted Peters admitting that he and Waterman had falsified the underlying data for \"In Search of Excellence\". He is quoted as saying, \" This is pretty small beer, but for what it's worth, okay, I confess: We faked the data. A lot of people suggested it at the time.\" He later insisted that this was untrue and that he was the victim of an \"aggressive headline.\" In 1987 Peters published \"Thriving on Chaos: Handbook for",
+                "socre": 1.338100552558899
+            },
+            {
+                "id": "5693847",
+                "title": "Dave Knudson (guitarist)",
+                "text": "Dave Knudson (guitarist) Dave Knudson (born October 13, 1976) plays guitar with Seattle based indie band Minus the Bear, and was previously the guitarist for mathcore band Botch. Other credits include additional guitars on These Arms Are Snakes' album \"Oxeneers or The Lion Sleeps When Its Antelope Go Home\". Dave Knudson is well known for his use of two-handed tapping. He uses this technique to create polyphony (countermelodies), whereby his right hand will tap a treble melody, whilst his left hand plays a bass accompaniment. This technique is most apparent on the album Highly Refined Pirates, where it is used",
+                "socre": 1.4172139167785645
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Q:Combine facts and answer this: What is one obvious aspect of Dave Peters career that makes it more flexible than that of Dave Knudson?\nA:",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6570181",
+                "title": "TUTOR (programming language)",
+                "text": "continuation lines. This is illustrated in the following example, from page S5 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: The same syntax was used for codice_31, codice_32 blocks with semantics comparable to while loops in conventional programming languages. This is illustrated in the following example, from page S6 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: Note that the codice_33 and codice_34 commands are somewhat analogous to the codice_35 and codice_36 statements of languages based on C, except that they must sit at the indenting",
+                "socre": 1.5573407411575317
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nuser: descriptive answer for how to make multiple lines into comment with one click on python in python with proper code examples and outputs.\nassistant: ",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "7145452",
+                "title": "Caroline Grills",
+                "text": "and John Downey of Redfern) on 13 April 1953, and detected the common household rat poison, thallium. Grills, a short woman who wore thick rimmed dark glasses, commonly served her friends and in-laws tea, cakes and biscuits, and lived in Gladesville, after the death of her father in 1948. She appeared in court charged with four murders and three attempted murders (the third being Eveline Lundberg, of Redfern, Christine Downey's mother) in October 1953. She was convicted on 15 October 1953 and sentenced to death, but her sentence was later changed to life in prison. She became affectionately known as",
+                "socre": 2.0827484130859375
+            },
+            {
+                "id": "7517235",
+                "title": "Death of Caroline Byrne",
+                "text": "of guards who dished out \"therapy\" and was king-hit and knocked unconscious in the prison yard by an infamous rapist and killer. Death of Caroline Byrne Caroline Byrne (1970–1995), an Australian model, was found at the bottom of a cliff at The Gap in Sydney in the early hours of 8 June 1995. Her then boyfriend Gordon Eric Wood (b. 1962), who at the time of her death was chauffeur and personal assistant to businessman Rene Rivkin, was convicted of her murder on 21 November 2008 and spent three years in Goulburn jail. He was acquitted of the conviction in",
+                "socre": 2.1423611640930176
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Complete the passage: pick from possible candidates.\n\nBy Louise Cheer and Lillian Radulova and Aap The former cellmate of Tracy Lee Brannigan - who died of a heroin overdose in a Sydney prison - has broken down while giving an account of how she found the convicted drug dealer dead and slumped against a wall. Brannigan died of an overdose while she was confined in a 'high needs' cell at Dillwynia Women's Correctional Centre after she had a 'drug party' with former prisoner Lauren Ironside - one of the women she had a lesbian relationship with in exchange for drugs. It was found the 41-year-old died between the afternoon of February 24, 2013 and the next morning while she was in lockdown for 17 hours where prison officers and inmates had no contact.\n\nThe court heard drugs flowed at\n\nOPTIONS:\n- Aap and were often thrown over the fence inside tennis balls\n- Brannigan and were often thrown over the fence inside tennis balls\n- Dillwynia Women's Correctional Centre and were often thrown over the fence inside tennis balls\n- Lauren Ironside and were often thrown over the fence inside tennis balls\n- Lillian Radulova and were often thrown over the fence inside tennis balls\n- Louise Cheer and were often thrown over the fence inside tennis balls\n- Sydney and were often thrown over the fence inside tennis balls\n- Tracy Lee Brannigan and were often thrown over the fence inside tennis balls",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "20712350",
+                "title": "ML.NET",
+                "text": "full roadmap of planned features have been made available on the official GitHub repo. AI fairness and explainability has been an area of debate for AI Ethicists in recent years. A major issue for Machine Learning applications is the black box effect where end users and the developers of an application are unsure of how an algorithm came to a decision or whether the dataset contains bias. Build 0.8 included model explainability API's that had been used internally in Microsoft. It added the capability to understand the feature importance of models with the addition of 'Overall Feature Importance' and 'Generalized",
+                "socre": 1.7541552782058716
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Explain the difference between a machine learning library and an AI framework",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6754168",
+                "title": "Rattana Pestonji",
+                "text": "Waan\" (\"Sugar Is Not Sweet\"). A romantic farce, it is a vibrant film that takes visual cues from the pop-art style of Western films of the time. Whilst Rattana was artistically respected, his films – featuring unhappy endings – were mostly commercial failures. Frustrated, he retired from filmmaking. However, he continued to be involved with the industry and was a tireless lobbyist. He co-founded and headed the Thai Film Producers Association. On the night of August 17, 1970, at the Montien Hotel in Bangkok, Rattana was set to address film producers and Thai government officials in a meeting called to",
+                "socre": 1.4433356523513794
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Tell me about Sugar Festival in Thailand?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "3180342",
+                "title": "Arch Linux",
+                "text": "compiles source tarballs into binary packages, which are installed via pacman. The Arch Build System provides a directory tree of shell scripts, called \"PKGBUILDs\", that enable any and all official Arch packages to be customized and compiled. Rebuilding the entire system using modified compiler flags is also supported by the Arch Build System. The Arch Build System codice_4 tool can be used to create custom codice_5 packages from third-party sources. The resulting packages are also installable and trackable via pacman. In addition to the repositories, the Arch User Repository (AUR) provides user-made PKGBUILD scripts for packages not included in the",
+                "socre": 1.744598150253296
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write an ansible playbook to install Arch Linux with the following specifications:\n1. The disk will be a LVM Thinpool over a LUKS encrypted volume\n2. The system will boot using EFI\n3. The root disk will be partitioned with BTRFS\n4. The playbook is executed through ssh on a Arch Linux Installation ISO",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "6772931",
+                "title": "AI winter",
+                "text": "by any overly ambitious or unrealistic promise by prominent AI scientists. For example, some researchers feared that the widely publicized promises in the early 1990s that Cog would show the intelligence of a human two-year-old might lead to an AI winter. James Hendler observed in 2008 that AI funding both in the EU and the US was being channeled more into applications and cross-breeding with traditional sciences, such as bioinformatics. This shift away from basic research is happening at the same time as there is a drive towards applications of, for example, the Semantic Web. Invoking the pipeline argument (see",
+                "socre": 1.342010498046875
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "What is the latest trends in AI research?",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "13996821",
+                "title": "Analytic hierarchy process – car example",
+                "text": "is under budget is compared with one that is over budget by more than $1,000, the former is extremely preferred. For cars under budget, a $1,000 less expensive car is slightly preferred, a $5,000 one is strongly preferred, and a $6,000 one is even more strongly preferred. When both cars are well over budget (comparison #6), they are equally preferred, which is to say they are equally undesirable. Because budget status and absolute price difference are enough to make each comparison, the ratio of prices never enters into the judgments. When the judgments shown above are entered, the AHP software",
+                "socre": 1.3269484043121338
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "How can I filter all prices above one sigma from a dataframe?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "619017",
+                "title": "History of Central America",
+                "text": "and grouped in the Isthmo-Colombian Area. Central America is composed of seven independent nations: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. After the Spanish conquest in the 16th century, most of the inhabitants of Central America shared a similar history. The exception was the Western Caribbean Zone, which included the Caribbean coast and encompassed both semi-independent indigenous polities, runaway slave communities, and settlers, especially British settlers who would eventually form British Honduras (the modern-day nation of Belize), a sparsely populated area that was inhabited by the British through the Treaty of Madrid from Spain. When Spain failed",
+                "socre": 1.7650405168533325
+            },
+            {
+                "id": "9471551",
+                "title": "Ethnic groups in Central America",
+                "text": "Ethnic groups in Central America Central America is a region formed by 6 Latin American countries and one Anglo American nation, (Belize). As an isthmus it connects North America with South America, comprising the following countries (from north to south): Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama. The inhabitants of Central America represent a variety of ancestries, ethnic groups, and races, making the region one of the most diverse in the world. Some countries have a predominance of European-Amerindian, or Mestizo, population; some are dominated by inhabitants of European ancestry; and some countries' populations are primarily Mixed.",
+                "socre": 1.6880313158035278
+            },
+            {
+                "id": "11644872",
+                "title": "Central American Integration System",
+                "text": "deal with civil wars in El Salvador, Guatemala and Nicaragua. Although the Contadora Group was dissolved in 1986, the concept of Central American integration is implicitly referenced in several countries' constitutions. The Esquipulas Peace Agreement (among other acts) agreed to the creation of a Central American Parliament composed of 20–22 directly-elected deputies from each country. Costa Rica has not ratified the agreement, and is not represented in the Parlacen. Parlacen is seen by some (including former President of Honduras Ricardo Maduro) as a white elephant. The CCJ's mission is to promote peace in the region and the unity of its",
+                "socre": 1.6564785242080688
+            },
+            {
+                "id": "76314",
+                "title": "Central America",
+                "text": "Guatemala, Honduras, Nicaragua, and the Dominican Republic. The treaty is aimed at promoting free trade among its members. Guatemala has the largest economy in the region. Its main exports are coffee, sugar, bananas, petroleum, clothing, and cardamom. Of its 10.29 billion dollar annual exports, 40.2% go to the United States, 11.1% to neighboring El Salvador, 8% to Honduras, 5.5% to Mexico, 4.7% to Nicaragua, and 4.3% to Costa Rica. Economic growth in Central America is projected to slow slightly in 2014–15, as country-specific domestic factors offset the positive effects from stronger economic activity in the United States. Tourism in Belize",
+                "socre": 1.667773723602295
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "I am verifying the answers generated by an automatic system to the following question: what countries are in central america? Suggested answer: Central America consists of seven countries: Belize , Costa Rica , El Salvador , Guatemala , Honduras , Nicaragua , and Panama . Should I validate this answer?\nAnswer:",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "8403269",
+                "title": "Renewable fuels",
+                "text": "depression, avoidance of scarcity of products due to a volatile ‘peak oil’ scenario expected to begin as early as 2021, (though peak oil is not a new idea) and a slowing of global warming that may usher in unprecedented climate change. Furthermore, the global debate on climate change, along with regional geopolitical instabilities have challenged nations to act to develop both alternative and carbon-neutral sources of energy. Renewable fuels are therefore becoming attractive to many governments, who are beginning to see sustainable energy independence as a valuable asset. On December 19, 2007, President Bush signed into law the Energy Independence",
+                "socre": 1.8066197633743286
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "Provide a detailed explanation on the non-renewable nature of fossil fuels, highlighting the specific geological and chemical processes that contribute to their depletion and limited availability. In your response, consider factors such as the finite reserves of hydrocarbons, the impact of extraction on the environment and local ecosystems, and the long-term consequences of continued reliance on fossil fuels for global energy production. Additionally, discuss potential alternative energy sources and their viability as sustainable solutions to the current energy crisis. Use supporting evidence and data from recent studies and industry reports to strengthen your argument.",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "1327197",
+                "title": "Emmy Noether",
+                "text": "member protested: \"\"What will our soldiers think when they return to the university and find that they are required to learn at the feet of a woman?\"\" Hilbert responded with indignation, stating, \"\"I do not see that the sex of the candidate is an argument against her admission as \"privatdozent\". After all, we are a university, not a bath house.\"\" Noether left for Göttingen in late April; two weeks later her mother died suddenly in Erlangen. She had previously received medical care for an eye condition, but its nature and impact on her death is unknown. At about the same",
+                "socre": 1.7576334476470947
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Ques: Claim: \"One can visit the Berlin University of the Arts by travelling to Germany if one is not already in Germany.\"\nIs the claim above correct, and can it be verified by human common sense and without a web search?\nOptions:\n- yes\n- no\nAns: I'm thinking hard. So here's my take: The Berlin University of the Arts is in Germany. The answer is yes.\n---\nQues: Is the following a factual statement?\n\"Hollywood suffered a devastating earthquake in 2011 causing millions in property damage.\"\nOptions:\n- yes\n- no\nAns: I'm thinking hard. So here's my take: There was no such earthquake in California in 2011. The answer is no.\n---\nQues: Does the following sentence make sense?\n\"Coldstream Guards undergo additional training in addition to the standard infantry training through the British Army.\"\nOptions:\n- yes\n- no\nAns:",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "847143",
+                "title": "Chimpanzee",
+                "text": "legs when carrying objects with their hands and arms. The chimpanzee is tailless; its coat is dark; its face, fingers, palms of the hands, and soles of the feet are hairless. The exposed skin of the face, hands, and feet varies from pink to very dark in both species, but is generally lighter in younger individuals and darkens with maturity. A University of Chicago Medical Centre study has found significant genetic differences between chimpanzee populations. A bony shelf over the eyes gives the forehead a receding appearance, and the nose is flat. Although the jaws protrude, a chimp's lips are",
+                "socre": 1.649398684501648
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "What are five physical characteristics of a chimpanzee?",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "9524510",
+                "title": "China Railway High-speed",
+                "text": "stated that America, Saudi Arabia and Brazil are interested in Chinese high-speed railway technology. July 28. The Federal Railroad Administration and the US government are negotiating on the introduction of Chinese railway technology. On 14 October 2009, Prime minister of Russia Vladimir Putin and the Russian Railroad Administration signed an \"Organizing and developing railway in Russia\" memo with Ministry of Railways of China, planning to build a high-speed railway from Vladivostok to Khabarovsk. On 23 July 2011 at approximately 20:00 CST, two high-speed trains travelling on the Yongtaiwen railway line No. D301 and No. D3115 bound for Fuzhou collided on",
+                "socre": 2.0880672931671143
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "China is considering building an 8,000-mile high-speed rail link to America that would take less than two days to travel. Travelling at around 217mph, the train would leave the north east of the country, run through Siberia and enter a 125-mile tunnel under the Bering Strait, the shortest crossing between Russia and Alaska. It would then resurface and head south through Canada, before reaching its destination in the US. Ambitious plans: The 8,000-mile high-speed link would begin in north east China and end up in the US It is unclear whether the American, Canadian or Russian governments have agreed to the proposals.\n\nEven though the plans haven not been finalised, it is believed the project would be developed and financed by the\n\nOPTIONS:\n- Alaska, who have become global leaders in high-speed rail travel.\n- America, who have become global leaders in high-speed rail travel.\n- American, who have become global leaders in high-speed rail travel.\n- Bering Strait, who have become global leaders in high-speed rail travel.\n- Canada, who have become global leaders in high-speed rail travel.\n- Canadian, who have become global leaders in high-speed rail travel.\n- China, who have become global leaders in high-speed rail travel.\n- Route, who have become global leaders in high-speed rail travel.\n- Russia, who have become global leaders in high-speed rail travel.\n- Russian, who have become global leaders in high-speed rail travel.\n- Siberia, who have become global leaders in high-speed rail travel.\n- Trans-Siberian Railway, who have become global leaders in high-speed rail travel.\n- US, who have become global leaders in high-speed rail travel.",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "16111986",
+                "title": "Questionnaire for User Interaction Satisfaction",
+                "text": "assigned to either the interactive batch run IBM mainframe or an interactive syntax-directed editor programming environment on an IBM PC. They evaluated the environment they had used during the first 6 weeks of the course (version 3.0). Then, for the next 6 weeks, the participants switched programming environments and evaluated the new system with the QUIS Version 4.0.<br> Although version 4.0 appeared to be reliable, there were limitations to the study due to sampling. The sample of the users doing the evaluation were limited to those in an academic community. There was a clear need to determine if the reliability",
+                "socre": 1.5821658372879028
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nuser: descriptive answer for dataframe move row up one in python with proper code examples and outputs.\nassistant: ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "74817",
+                "title": "Climate",
+                "text": "to three months of the year, with permafrost in large parts of the area due to the cold winters. Winters within subarctic climates usually include up to six months of temperatures averaging below . Tundra occurs in the far Northern Hemisphere, north of the taiga belt, including vast areas of northern Russia and Canada. A polar ice cap, or polar ice sheet, is a high-latitude region of a planet or moon that is covered in ice. Ice caps form because high-latitude regions receive less energy as solar radiation from the sun than equatorial regions, resulting in lower surface temperatures. A",
+                "socre": 1.6826127767562866
+            },
+            {
+                "id": "603418",
+                "title": "Polar climate",
+                "text": "is referred to as Alpine climate. Alpine climate can mimic either tundra or ice cap climate. On Earth, the only continent where the ice cap polar climate is predominant is Antarctica. All but a few isolated coastal areas on the island of Greenland also have the ice cap climate. Coastal regions of Greenland that do not have permanent ice sheets have the less extreme tundra climates. The northernmost part of the Eurasian land mass, from the extreme northeastern coast of Scandinavia and eastwards to the Bering Strait, large areas of northern Siberia and northern Iceland have tundra climate as well.",
+                "socre": 1.6956980228424072
+            },
+            {
+                "id": "603417",
+                "title": "Polar climate",
+                "text": "two types of polar climate: ET, or tundra climate; and EF, or ice cap climate. A tundra climate is characterized by having at least one month whose average temperature is above , while an ice cap climate has no months above . In a tundra climate, trees cannot grow, but other specialized plants can grow. In an ice cap climate, no plants can grow, and ice gradually accumulates until it flows elsewhere. Many high altitude locations on Earth have a climate where no month has an average temperature of or higher, but as this is due to elevation, this climate",
+                "socre": 1.7379103899002075
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Detailed Instructions: Given scientific fact as input, generate the question from this fact such that it can be answered from the input.\nQ: Polar climates include polar and alpine other kind of tundra.\nA:",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "5065492",
+                "title": "Desert ecology",
+                "text": "to provide a source of hydration for their chicks, who do not yet have the ability to fly to water sources themselves. Although deserts have severe climates, some plants still manage to grow. Plants that can survive in arid deserts are called xerophytes, meaning they are able to survive long dry periods. Such plants may close their stomata the daytime and open them at night, at the time when a plant may load carbon dioxide while, thanks to lower temperatures, losing less water to evaporation. Adaptations in xerophytes include resistance to heat and water loss, increased water storage capabilities, and",
+                "socre": 1.7381247282028198
+            }
+        ],
+        "source": "CamelAI",
+        "example_question": "\"How have desert ecosystems evolved to adapt to their harsh environments and what unique adaptations do desert species possess that have allowed them to survive in such conditions?\"",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "4318897",
+                "title": "Joyce Cooling",
+                "text": "Cooling\" is Cooling's seventh studio album and was released on April 22, 2009. The album spawned the single \"Dolores in Pink\". In 2009 Cooling and Wagner founded Music for the Mind, a program of concerts, events, and recordings that raise funds and awareness for NAMI and mental health. Joyce Cooling Joyce Concetta Cooling is an American jazz guitarist, vocalist, and songwriter based in San Francisco. Cooling has performed with Joe Henderson, Stan Getz, Mark Murphy, Al Jarreau, and Charlie Byrd among others. Cooling was born into a musical family. Her mother, a music teacher, was a classical music aficionado. After",
+                "socre": 1.7723262310028076
+            },
+            {
+                "id": "4318894",
+                "title": "Joyce Cooling",
+                "text": "play by ear. She met keyboardist Jay Wagner on San Francisco's Brazilian jazz circuit. Wagner was an original member of the San Francisco-based group Viva Brasil. She joined Viva Brasil part-time in 1988 as a guitarist and background vocalist. Cooling's and Wagner's chemistry and passion for songwriting resulted in their first collaboration, \"Cameo\" (1989) recorded with members of Viva Brasil. Cooling and Wagner formed a band in 1990, performing and recording for the next six years. By 1996 they had completed their second self-produced album, \"Person2Person\". The album came to the attention of Heads Up International, which signed the duo",
+                "socre": 1.667107343673706
+            },
+            {
+                "id": "4318896",
+                "title": "Joyce Cooling",
+                "text": "Door\", was released by Narada Jazz when it merged with Blue Note Records in 2006. Although Cooling had been a member of the National Alliance on Mental Illness (NAMI), she became a national advocate for the organization with \"Revolving Door\". She has performed at NAMI national and regional events across the country. She and Wagner donate a portion of the proceeds from the sale of their albums to NAMI. They released their song \"It's Feeling Like Christmas\" in 2008 with an accompanying music video produced by Progressive Pulse. A portion of the proceeds from the song went to NAMI. \"Global",
+                "socre": 1.581708312034607
+            },
+            {
+                "id": "18111045",
+                "title": "Larry g(EE)",
+                "text": "popular acts on the music scene. He naturally gravitated towards the pseudonym Larry G, but found that the name was too close for comfort to another talented and established musical artist, saxophone player Kenny G. With the help of his brother Chester, another pseudo name took shape by simply stylizing the first initial of his last name and adding two capital \"E's\" in parentheses. The name and identity Larry g(EE) was born. He later collaborated with noted music producer Beau Bedford to release the \"Weekends\" EP, a sultry soul-pop album composed of four songs in 2011. In June 2014, g(EE)",
+                "socre": 1.5468696355819702
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Here's a complex question that requires someone to reason about the input, can you answer it? What is the middle name of the musician that American jazz guitarist, vocalist, and songwriter Joyce Cooling has preformed with who has the first and last initials \"A\" and \"J\" respectively?\nA:",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "8842054",
+                "title": "Stefan Swanepoel",
+                "text": "The list is described as the most comprehensive list of influential CEOs, thought leaders and senior executives ever assembled in the residential real estate brokerage business. The rankings are based on multiple criteria that take into account the individual's personal influence, his/her tenure in the industry, the office he or she holds, the decision-making power of said office, the financial resources of the company or organization, the company or organization's significance and contribution to the industry, the company's geographic reach, and his or her recent activities, growth, and potential. A study that analyzes the residential real estate business and outlines",
+                "socre": 1.3476734161376953
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "list research real estate agents have to conduct",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "1511276",
+                "title": "Arundhati Roy",
+                "text": "and also the extremely corrupt. No one’s going to say they are for corruption after all…I’m not against a strong anti-corruption bill, but corruption is just a manifestation of a problem, not the problem itself.\" In 2013, Roy described Narendra Modi's nomination for the prime ministerial candidate as a \"tragedy\". She further said that the business houses were supporting his candidacy because he was the \"most militaristic and aggressive\" candidate. Roy was awarded the 1997 Booker Prize for her novel \"The God of Small Things\". The award carried a prize of approximately US$30,000 and a citation that noted, \"The book",
+                "socre": 1.3765599727630615
+            },
+            {
+                "id": "18734969",
+                "title": "Public image of Narendra Modi",
+                "text": "Public image of Narendra Modi Narendra Modi, the 14th Prime Minister of India, has elicited a number of public perceptions regarding his personality and background. A vegetarian, Modi is Hindu and is a member of the Rashtriya Swayamsevak Sangh and Bharatiya Janata Party. He is married but has nothing to do with his wife and kept the marriage secret for most of his career. Adept at using social media, in September 2014 Modi became the second-most-followed leader in the world with 5 million Twitter subscribers. Modi's 31 August 2012 post on Google Hangouts made him the first Indian politician to",
+                "socre": 1.5095099210739136
+            },
+            {
+                "id": "2566555",
+                "title": "Narendra Modi",
+                "text": "has been variously described by scholars and biographers as energetic, arrogant, and charismatic. The nomination of Modi for the prime ministership drew attention to his reputation as \"one of contemporary India's most controversial and divisive politicians.\" During the 2014 election campaign the BJP projected an image of Modi as a strong, masculine leader, who would be able to take difficult decisions. Campaigns in which he has participated have focused on Modi as an individual, in a manner unusual for the BJP and RSS. Modi has relied upon his reputation as a politician able to bring about economic growth and \"development\".",
+                "socre": 1.347860336303711
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "How corrupt is Narendra Modi?\nHow corrupted is Narendra Modi?\nDo those questions have the same meaning?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "12366226",
+                "title": "Pronghorn",
+                "text": "running. The top speed is very hard to measure accurately and varies between individuals; it can run 35 mph for 4 mi (56 km/h for 6 km), 42 mph for 1 mi (67 km/h for 1.6 km), and 55 mph for 0.5 mi (88.5 km/h for 0.8 km). It is often cited as the second-fastest land animal, second only to the cheetah. It can, however, sustain high speeds longer than cheetahs. University of Idaho zoologist John Byers has suggested the pronghorn evolved its running ability to escape from extinct predators such as the American cheetah, since its speed greatly exceeds",
+                "socre": 1.6554579734802246
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Make a table of the top 10 fastest animals",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "20362887",
+                "title": "SAP Converged Cloud",
+                "text": "delivery cloud strategy lets organizations use different cloud delivery services for specific applications. For instance, a public cloud may be a more cost-effective service for the compute-intensive task of processing analytics, but the data would remain local, or private, to comply with regulations. Because a hybrid delivery strategy lets organizations run applications and services across different clouds, collocation, and data centers, an example benefit of such a delivery mechanism is that organizations can move an app from one geographic location to another in major storms. There can be different types of hybrid clouds for specific tasks. The Infrastructure as a",
+                "socre": 1.7086539268493652
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write a public cloud platform adoption strategy ",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "465867",
+                "title": "Zodiac",
+                "text": "by English speakers. The Latin names are standard English usage. The zodiacal signs are distinct from the constellations associated with them, not only because of their drifting apart due to the precession of equinoxes but also because the physical constellations take up varying widths of the ecliptic, so the Sun is not in each constellation for the same amount of time. Thus, Virgo takes up five times as much ecliptic longitude as Scorpius. The zodiacal signs are an abstraction from the physical constellations, and each represent exactly one twelfth of the full circle, or the longitude traversed by the Sun",
+                "socre": 1.3677245378494263
+            },
+            {
+                "id": "17169395",
+                "title": "Astrology and science",
+                "text": "to get back to their astrology. Further, to astrologers, if something appears in their favour, they latch upon it as proof, while making no attempt to explore its implications, preferring to refer to the item in favour as definitive; possibilities that do not make astrology look favourable are ignored. From the Quinean web of knowledge, there is a dichotomy where one must either reject astrology or accept astrology but reject all established scientific disciplines that are incompatible with astrology. Astrologers often avoid making verifiable predictions, and instead rely on vague statements that let them try to avoid falsification. Across several",
+                "socre": 1.352259635925293
+            },
+            {
+                "id": "4054919",
+                "title": "Natal astrology",
+                "text": "sign through creating what is called the chart \"signature\". This involves noting which element and quality has the most signs and then combining them into a zodiac sign which is taken to be the signature sign of the chart. So for example, if a person has more fire signs than any other element, and more fixed signs than any other quality, then that person's signature is Leo (the sign which is both fire and fixed). In some cases there is no clear majority in either element or quality to give a clear signature. In these cases the ruling planet of",
+                "socre": 1.371095061302185
+            },
+            {
+                "id": "465869",
+                "title": "Zodiac",
+                "text": "the Royal Astronomical Society. This happened in a 1995 report of the \"BBC Nine O'Clock News\" and various reports in 2011 and 2016. Professional astronomers generally consider astrology a pseudoscience which has been disproven by scientific experimentation. For example, in drawing a distinction between astrology and scientific astronomy, NASA notes that \"No one has shown that astrology can be used to predict the future or describe what people are like based on their birth dates.\" Some \"parazodiacal\" constellations are also touched by the paths of the planets, leading to counts of up to 25 \"constellations of the zodiac\". The ancient",
+                "socre": 1.3579050302505493
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "On what scientific proof are zodiac signs based on?\nWhat is the scientific basis behind zodiac signs?\n\nAre these two questions inquiring about the same information?",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "9633154",
+                "title": "The enemy of my enemy is my friend",
+                "text": "to nations and factions that embraced an anti-Soviet, often Maoist form of Communism, but whose governments nonetheless embraced Sinophobic policies at home, such as the Khmer Rouge. In an example of this doctrine at work in Middle Eastern foreign policy, United States backed the Iraqi government under Saddam Hussein during the Iran–Iraq War, as a strategic response to the anti-American Iranian Revolution of 1979. A 2001 study of international relations in the Middle East used the proverb as the basis of its main thesis, examining how enmity between adverse nations evolve and alliances develop in response to common threats. In",
+                "socre": 1.438478708267212
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Who is attributed as the author of the quote \"To be an enemy of the US is dangerous, but to be a friend is fatal\"?",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "20017833",
+                "title": "Data Driven Nonprofits",
+                "text": "noted: \"\"Data Driven Nonprofits\" is must reading, because it will not only change your mind, it will inspire you — by fact and example — to start measuring the right things for the right outcomes, and begin experiencing real growth.\" \"Third Sector\" commented: \"The book has an easy, anecdotal style and some persuasive arguments. It should be useful to anyone struggling to use data more intelligently after the batch-and-blast methods that contributed to recent fundraising scandals.\" \"Fundraising UK\" noted that \"as a fundraiser’s guide to the power of strategic data use over tribal learning – it’s a handy addition to",
+                "socre": 1.6004139184951782
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Create a blog article of 700 words on top \"Why non-profit should focus on data analytics to ensure smooth operation and better outcome for their missions\"",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6570175",
+                "title": "TUTOR (programming language)",
+                "text": "by a pattern matching command such as codice_11 or codice_12. All output produced by the body of the judging loop in the previous cycle is erased from the screen prior to the next cycle. Consider this example, from exercise 4-1 of the 1973 \"TUTOR User's Memo\": In the event that the student inputs \"square\" or \"a square\", the answer is judged to be incorrect, and the text \"A square has four sides.\" is output starting at line 15 column 1 on the screen. This output remains on the screen until the student begins to enter a new answer, at which",
+                "socre": 1.4679313898086548
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nsystem:descriptive answer for python multiply digits of a number in python with proper code examples and outputs.\n\nassistant: ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "16839487",
+                "title": "Ko Taen",
+                "text": "coast of Samui, which faces Ko Taen. It is possible to arrange individual day-trips to Ko Taen there. There are also companies offering trips to the island from other places which include a much longer trip on larger and more comfortable boats. The island has several beaches suitable for snorkeling. The island is surrounded by coral reefs, which survived and partly recovered from the widespread dynamite fishing in the region until the 1980s. Many small bungalows have been built on To Taen, especially since in the late-1990s, of which some can still be rented by small groups, but many of",
+                "socre": 1.8172328472137451
+            },
+            {
+                "id": "3579854",
+                "title": "Ko Pha-ngan",
+                "text": "In 2016, Infected Mushroom collaborated with Hatikva 6 to release a song called \"Hotel Koh Phangan.\" Ko Pha-ngan Ko Pha-ngan (; ; ) is an island in the Gulf of Thailand in southeast Thailand in Surat Thani Province. Ko Pha-ngan is best known for its Full Moon Party at Haad Rin Beach. Ko Pha-ngan has two sister islands: the larger Ko Samui to the south and the smaller Ko Tao to the north. The name Ko Pha-ngan derives from the word \"ngan\", meaning \"sand bar\" in the southern dialect, for there are many sand bars offshore. Ko Pha-ngan has been",
+                "socre": 1.7769354581832886
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Complete the passage: pick from possible candidates.\n\nIf the chilly winter weather is getting you down, there's nothing like a little summer dreaming to brighten up the dark damp days. Gazing at this collection of the world's most extraordinary pools, put together by Home Life, may help to warm you up and give some inspiration to start planning summer holidays abroad. Bondi's Icebergs pool is the only Australian location to appear in the list, while Chile's San Alfonso Del Mar is the largest pool in the world capable of holding 250 million litres of water. The luxurious lengthy pool located atop the Marine Bay Sands in Singapore is in the heart of the CBD and looks over the city skyline, while the pool at Phoenix Seagaia Resort in Japan is a makeshift beach with artificial waves and sand.\n\nThis extraordinary red pool is located on the eastern\n\nOPTIONS:\n- Australian island of Koh Samui.\n- Bondi island of Koh Samui.\n- Bondi Icebergs island of Koh Samui.\n- Chile island of Koh Samui.\n- Home Life island of Koh Samui.\n- Icebergs island of Koh Samui.\n- Indian island of Koh Samui.\n- Japan island of Koh Samui.\n- Koh Samui island of Koh Samui.\n- Marine Bay Sands island of Koh Samui.\n- Phoenix Seagaia Resort island of Koh Samui.\n- San Alfonso Del Mar island of Koh Samui.\n- Shanghai island of Koh Samui.\n- Singapore island of Koh Samui.\n- Sydney island of Koh Samui.\n- Thailand island of Koh Samui.\n- The Library island of Koh Samui.",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "10088354",
+                "title": "My Little Duckaroo",
+                "text": "Daffy shouts. \"And besides, it isn't the principle of the thing, it's the money.\" Following large conspicuous signs to Canasta's hide-out, Daffy tells Porky to wait outside 'whilst I go in and fix his little red wagon'. Daffy bursts into the hideout, to find Canasta sitting peacefully at a table playing cards. He announces himself as the Masked Avenger, then as Frisco Kid and later as Superguy, but Canasta pays no attention until Daffy offers advice on his card game, to which Canasta asks if Daffy plays cards. Challenged to join the game, Daffy departs and returns in new cowboy",
+                "socre": 1.1589275598526
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "How to join pyarrow table without pandas",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "215639",
+                "title": "Jaguar",
+                "text": "armored reptiles and turtles. A comparative study of bite force adjusted for body size ranked it as the top felid, alongside the clouded leopard and ahead of the tiger and lion. It has been reported that \"an individual jaguar can drag an bull in its jaws and pulverize the heaviest bones\". While the jaguar closely resembles the leopard, it is generally sturdier and heavier, and the two animals can be distinguished by their rosettes: the rosettes on a jaguar's coat are larger, fewer in number, usually darker, and have thicker lines and small spots in the middle that the leopard",
+                "socre": 1.7582558393478394
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "What are the physical differences between jaguars and leopards, including fur size and color, bone structure, and hunting behavior? Can you provide a detailed comparison in an excel table format?\nFurthermore, could you demonstrate your expertise by showcasing a multi-step process using the Lynx tool and diff command in a Shell command to retrieve information about these animals? This involves converting their Wikipedia pages to text format and comparing the differences between the two pages. Please provide the code for creating the excel table and Shell command process.",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "11630028",
+                "title": "2-Methylpyridine",
+                "text": "2-Methylpyridine 2-Methylpyridine, or 2-picoline, is the compound described with formula CHN. 2-Picoline is a colorless liquid that has an unpleasant odor similar to pyridine. It is mainly used to make vinylpyridine and the agrichemical nitrapyrin. 2-Picoline was the first pyridine compound reported to be isolated in pure form. It was isolated from coal tar in 1846 by T. Anderson. This chemistry was practiced by Reilly Industries in Indianapolis. It is now mainly produced by two principal routes, the condensation of acetaldehyde, formaldehyde, and ammonia and the cyclization of nitriles and acetylene. One example of such reaction is the combination of",
+                "socre": 1.5483630895614624
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "Write an article about the Upstream and Downstream products of 2,2-DIMETHYL-N-PYRIDIN-2-YL-PROPIONAMIDE 1500-2000 words in chemical industry",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "17804151",
+                "title": "2012 Middle East respiratory syndrome coronavirus outbreak",
+                "text": "with confirmed cases of a SARS-like virus. The delays in obtaining data and absence of basic information (which would usefully include: sex, age, other medical conditions and smoking status) have been noted and decried by Dr. Margaret Chan and in Pro-Med comments on numerous briefings. At the annual meeting of the world’s health ministers, Dr. Chan, director-general of the World Health Organization, said the virus was now her “greatest concern.” On 28 May 2013, the Saudi Ministry of Health reported five more cases of MERS-CoV. The cases have been \"recorded among citizens in the Eastern Region, ranging in age from",
+                "socre": 1.9495540857315063
+            }
+        ],
+        "source": "cot_alpaca_gpt4",
+        "example_question": "Please add additional information to this article.\nThe World Health Organization has warned of a potential second wave of coronavirus cases if countries do not continue to take preventive measures.",
+        "task": "Single-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "6570181",
+                "title": "TUTOR (programming language)",
+                "text": "continuation lines. This is illustrated in the following example, from page S5 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: The same syntax was used for codice_31, codice_32 blocks with semantics comparable to while loops in conventional programming languages. This is illustrated in the following example, from page S6 of the \"Summary of TUTOR Commands and System Variables (10th ed)\" by Elaine Avner, 1981: Note that the codice_33 and codice_34 commands are somewhat analogous to the codice_35 and codice_36 statements of languages based on C, except that they must sit at the indenting",
+                "socre": 1.5573407411575317
+            }
+        ],
+        "source": "lmsys_processed",
+        "example_question": "You are the text completion model and you must complete the assistant answer below, only send the completion based on the system instructions.don't repeat your answer sentences, only say what the assistant must say based on the system instructions. repeating same thing in same answer not allowed.\nsystem:descriptive answer for python int64index in python with proper code examples and outputs.\n\nassistant: ",
+        "task": "Single-Doc Support"
+    },
+    {
+        "context": [
+            {
+                "id": "11745500",
+                "title": "Environmental impact of pesticides",
+                "text": "used to fumigate soil can give off chemicals called volatile organic compounds, which can react with other chemicals and form a pollutant called tropospheric ozone. Pesticide use accounts for about 6 percent of total tropospheric ozone levels. In the United States, pesticides were found to pollute every stream and over 90% of wells sampled in a study by the US Geological Survey. Pesticide residues have also been found in rain and groundwater. Studies by the UK government showed that pesticide concentrations exceeded those allowable for drinking water in some samples of river water and groundwater. Pesticide impacts on aquatic systems",
+                "socre": 1.638560175895691
+            },
+            {
+                "id": "19529910",
+                "title": "Swamps of the Blue Mountains",
+                "text": "Blue Mountains area, and most of it is fragmented between communities, it is also highly susceptible to ecological edge effects. Bushfire hazard reduction, controlled burning-off, is practised to protect urban areas within the Mountains; however it has been shown to have potentially disturbing effects on the swamps. Fires' consumption of peat within the swamps is particularly damaging, as these substances take many years to recover. Bushfires can also lead to severe erosion and channeling via post-fire runoff, destroying vegetation and subsoil rhizomes from living plants. An example of localized erosion occurred in Hazelbrook following heavy rain after fires. The National",
+                "socre": 1.5076844692230225
+            },
+            {
+                "id": "10024231",
+                "title": "Neonicotinoid",
+                "text": "the study also rule out confounding effects from other land-use changes or pre-existing trends in bird declines”. From June to October 2014 a comprehensive Worldwide Integrated Assessment of the impact of systemic pesticides on biodiversity and ecosystems (WIA) was published in the journal Environmental Science and Pollution Research. In a series of papers it concludes that these systemic insecticides pose a serious risk of harm to a broad range of non-target invertebrate taxa, often below the expected environmental concentrations, that their present use is not a sustainable pest management approach, and compromises the actions of numerous stakeholders in maintaining and",
+                "socre": 1.5093626976013184
+            },
+            {
+                "id": "11745515",
+                "title": "Environmental impact of pesticides",
+                "text": "herbicides to bodies of water can kill plants on which fish depend for their habitat. Pesticides can accumulate in bodies of water to levels that kill off zooplankton, the main source of food for young fish. Pesticides can also kill off insects on which some fish feed, causing the fish to travel farther in search of food and exposing them to greater risk from predators. The faster a given pesticide breaks down in the environment, the less threat it poses to aquatic life. Insecticides are typically more toxic to aquatic life than herbicides and fungicides. In the past several decades,",
+                "socre": 1.4898866415023804
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Do you think the right answer to the question \"pesticides can cause what to be destroyed?\" is \"swamp vegetation\", given that  pesticides can cause entire ecosystems to be destroyed?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "13035294",
+                "title": "PDP-11 architecture",
+                "text": "PDP-11/70 (circa 1975), an instruction of the form ADD \"x\"(R\"m\"),\"y\"(R\"n\") had a fetch/execute time of 1.35 microseconds plus source and destination times of 0.6 microseconds each, for a total instruction time of 2.55 microseconds. Any case where addressed memory was not in the cache added 1.02 microseconds. The register-to-register ADD R\"m\",R\"n\" could execute from the cache in 0.3 microseconds. Floating point was even more complex, since there was some overlap between the CPU and the floating-point processor, but in general, floating point was significantly slower. A single-precision floating add instruction could range from 2.4 to 5.5 microseconds plus time to",
+                "socre": 1.5409737825393677
+            },
+            {
+                "id": "2426463",
+                "title": "Multiply–accumulate operation",
+                "text": "processors, but the technique is now also common in general-purpose processors. When done with integers, the operation is typically exact (computed modulo some power of two). However, floating-point numbers have only a certain amount of mathematical precision. That is, digital floating-point arithmetic is generally not associative or distributive. (See Floating point#Accuracy problems.) Therefore, it makes a difference to the result whether the multiply–add is performed with two roundings, or in one operation with a single rounding (a fused multiply–add). IEEE 754-2008 specifies that it must be performed with one rounding, yielding a more accurate result. A \"fused\" multiply–add (sometimes known",
+                "socre": 1.509716272354126
+            },
+            {
+                "id": "9425297",
+                "title": "NEC V60",
+                "text": "running at full bus speed. This made string operations about five times faster in the V80. All floating point operations are largely implemented in microcode across the family and thus and are fairly slow. On the V60/V70 the 32-bit floating point operations took 120/116/137 cycles for addition/multiplication/division, while the corresponding 64-bit floating point operations took 178/270/590 cycles. The V80 had some limited hardware assist for parts of the floating point operations, e.g. decomposition into sign, exponent and mantissa, thus its floating point unit was claimed up to 3 times as effective as the one of the V70, with 32-bit operations",
+                "socre": 1.4897434711456299
+            },
+            {
+                "id": "17107501",
+                "title": "Fermi (microarchitecture)",
+                "text": "and extended precision operations. \"Floating Point Unit (FPU)\": Implements the new IEEE 754-2008 floating-point standard, providing the fused multiply-add (FMA) instruction (see Fused Multiply-Add subsection) for both single and double precision arithmetic. Up to 16 double precision fused multiply-add operations can be performed per SM, per clock. Fused Multiply-Add (FMA) perform multiplication and addition (i.e., A*B+C) with a single final rounding step, with no loss of precision in the addition. FMA is more accurate than performing the operations separately. The Fermi architecture uses a two-level, distributed thread scheduler. Each SM can issue instructions consuming any two of the four green",
+                "socre": 1.505784034729004
+            }
+        ],
+        "source": "ShareGPT_V3",
+        "example_question": "How long time does it take to perform a multiply and add operation for floating points on a nrf52840?",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "8951238",
+                "title": "EudraCT",
+                "text": "called \"EudraCT Receipt\" sent. The EudraCT number has the format YYYY-NNNNNN-CC, where: The Clinical Trial Application (CTA) form is also created via the EudraCT system. The EudraCT database is currently on Version 9. Version 9 of EudraCT was released in November 2013. New features for Version 9 include: Protocol-related information Sponsors can: PIP addressees can: Result-related information Results users can: Source EudraCT EudraCT (European Union Drug Regulating Authorities Clinical Trials) is the European Clinical Trials Database of all clinical trials of investigational medicinal products with at least one site in the European Union commencing 1 May 2004 or later. The",
+                "socre": 1.309543490409851
+            },
+            {
+                "id": "4878449",
+                "title": "European Public Prosecutor",
+                "text": "Study, the Euroneeds Study, the Pretrial investigative model rules, the Spanish Presidency Report, officially launched in Brussels in March 2010, etc. and studies regarding Eurojust, will provide valuable input. In November 2013 the Commission indicated its intention to go ahead with the establishment of a European Public Prosecutor, despite the opposition of 14 EU national parliaments. The European Parliament has subsequently voted in favour of the Commission's proposal to set up the office. European Public Prosecutor The European Public Prosecutor's Office (EPPO) is an independent body of the European Union (EU) to be established under the Treaty of Lisbon between",
+                "socre": 1.3371039628982544
+            },
+            {
+                "id": "2757143",
+                "title": "European Anti-Fraud Office",
+                "text": "influence needed to force cooperation. EUROPOL and EUROJUST are two organisations OLAF struggles to work with, because OLAF feels like they encroach on its jurisdiction and have no place in fraud investigations. There is no one legal code to protect the European Budget - each Member State has their own legal systems, with their own law enforcement and evidence collecting methods and this can reduce the efficiency of OLAF. Its efficiency is also hindered by reliance on state/agency cooperation, cultural, legal and language barriers and complications arising from cross-border investigations. European Anti-Fraud Office The European Anti-Fraud Office (commonly known as",
+                "socre": 1.3447939157485962
+            },
+            {
+                "id": "20541805",
+                "title": "Regulation of pesticides in the European Union",
+                "text": "shall within 45 days communicate (Art. 9(1) Regulation (EC) No 1107/2009) to the applicant that submitted the dossier. Furthermore they will check whether the dossier is complete. If elements are missing, the applicant has 3 months to complete the dossier, otherwise the application is not considered admissible. If the dossier is considered admissible, the Rapporteur Member State will notify the applicant and the competent authorities (other Member States, EFSA and the European Commission) and start evaluating the active substance. The applicant will then send the dossier to the three mentioned authorities. Moreover, EFSA will create a summary of the dossier",
+                "socre": 1.3229992389678955
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Generate a correctly punctuated version of the following text: The European AntiFraud Office is set up",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "489964",
+                "title": "Nicotine",
+                "text": "into \"N\"-methyl putrescine via methylation by SAM catalyzed by putrescine \"N\"-methyltransferase (PMT). \"N\"-methylputrescine then undergoes deamination into 4-methylaminobutanal by the \"N\"-methylputrescine oxidase (MPO) enzyme, 4-methylaminobutanal then spontaneously cyclize into \"N\"-methyl-Δ-pyrrollidium cation. The final step in the synthesis of nicotine is the coupling between \"N\"-methyl-Δ-pyrrollidium cation and niacin. Although studies conclude some form of coupling between the two component structures, the definite process and mechanism remains undetermined. The current agreed theory involves the conversion of niacin into 2,5-dihydropyridine through 3,6-dihydronicotinic acid. The 2,5-dihydropyridine intermediate would then react with \"N\"-methyl-Δ-pyrrollidium cation to form enantiomerically pure (−)-nicotine. Nicotine can be quantified in blood,",
+                "socre": 1.5462270975112915
+            },
+            {
+                "id": "3246125",
+                "title": "Passive smoking",
+                "text": "exposure and concentrations of nicotine and/or biomarkers of nicotine in the body. Significant biological levels of nicotine from second-hand smoke exposure were equivalent to nicotine levels from active smoking and levels that are associated with behaviour changes due to nicotine consumption. Cotinine, the metabolite of nicotine, is a biomarker of second-hand smoke exposure. Typically, cotinine is measured in the blood, saliva, and urine. Hair analysis has recently become a new, noninvasive measurement technique. Cotinine accumulates in hair during hair growth, which results in a measure of long-term, cumulative exposure to tobacco smoke. Urinary cotinine levels have been a reliable biomarker",
+                "socre": 1.6358742713928223
+            },
+            {
+                "id": "489958",
+                "title": "Nicotine",
+                "text": "in the liver by cytochrome P450 enzymes (mostly CYP2A6, and also by CYP2B6) and FMO3, which selectively metabolizes (\"S\")-nicotine. A major metabolite is cotinine. Other primary metabolites include nicotine \"N\"'-oxide, nornicotine, nicotine isomethonium ion, 2-hydroxynicotine and nicotine glucuronide. Under some conditions, other substances may be formed such as myosmine. Glucuronidation and oxidative metabolism of nicotine to cotinine are both inhibited by menthol, an additive to mentholated cigarettes, thus increasing the half-life of nicotine \"in vivo\". Nicotine is a hygroscopic, colorless to yellow-brown, oily liquid, that is readily soluble in alcohol, ether or light petroleum. It is miscible with water in",
+                "socre": 1.5672968626022339
+            },
+            {
+                "id": "3533499",
+                "title": "Manduca sexta",
+                "text": "the tobacco plant and using nicotine as a defense against predators. It possesses a gene called cytochrome P450 6B46 (CYP6B46) that converts nicotine into a metabolite. About 0.65% of nicotine metabolites are transported from the gut to the hemolymph, where they are reconverted to nicotine and released into the air from the tobacco hornworm's spiracles. The emitted nicotine is used as a way to deter spiders, a practice known as “toxic halitosis.” In one study, tobacco hornworms that fed from nicotine-deficient plants or expressed low levels of CYP6B46 were more susceptible to wolf spider predation (Kumar et al., 2013). Tobacco",
+                "socre": 1.5365694761276245
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "biological markers specific to shse are nicotine and its metabolites.\nCapitalize this past sentence correctly.",
+        "task": "Multi-Doc Answer"
+    },
+    {
+        "context": [
+            {
+                "id": "17234864",
+                "title": "Lactococcus garvieae",
+                "text": "have confirmed that capsulated strains, commonly classified as serotype KG−, are more virulent than non-capsulated strains, commonly classified as serotype KG+. The appearance of the disease is affected specifically by factors of the aquatic environment such as temperature and water quality. Water temperature affects the disease seasonally as the climate changes, specifically when the water temperature is over . Infection is linked to water temperatures over 18 °C, although acute outbreaks have been discovered in water temperatures of 14–15 °C. Low water quality caused by poor sanitary conditions has been shown to influence evolution of infection. The disease becomes more",
+                "socre": 1.6787669658660889
+            },
+            {
+                "id": "15105390",
+                "title": "Lake Burton (Antarctica)",
+                "text": "1980s. Some of the findings indicate that salinity levels increase from below the ice level towards the lake bottom resulting in dense waters, the microbiota activity caused depletion of oxygen, separate water bodies of distinct chemistry got formed, the intervening chemical gradients have created niches for colonization by unique microbial communities and 68 bacteria were isolated. In the research studies on photosynthetic bacteria conducted in 1983, the dominant species identified were \"Chlorobium vibrioforme\" and \"Chlorobium limicola\". \"Thiocapsa roseopersicina\" and \"Rhodopseudomonas palustris\" were also found but at lower density. In the anoxic water zone (temperature range of to ) of the",
+                "socre": 1.624485731124878
+            },
+            {
+                "id": "8431983",
+                "title": "Indicator bacteria",
+                "text": "health outcomes among all the indicators studied. The relative risk (RR) of illness for swimmers in polluted freshwater versus swimmers in unpolluted water was between 1-2 for the majority of the data sets reviewed. The same study concluded that bacterial indicators were not well correlated to virus concentrations. Survival of pathogens in waste materials, soil, or water, depends on many environmental factors including temperature, pH, organic matter content, moisture, exposure to light, and the presence of other organisms. Fecal material can be directly deposited, washed into waters by overland runoff, transported through the ground, or discharged to surface waters via",
+                "socre": 1.6448681354522705
+            },
+            {
+                "id": "9124407",
+                "title": "Phycodnaviridae",
+                "text": "host, zoochlorellae, but also regulating, to an extent, populations of zoochlorellae hosts as well. Chloroviruses and viruses in general cause death and lysis of their hosts, releasing dissolved organic carbon, nitrogen and phosphorus into the water. These nutrients can then be taken up by bacteria, thus contributing to the microbial loop. Liberation of dissolved organic materials allows for bacterial growth, and bacteria are an important source of food for organisms in higher trophic levels. Consequently, chloroviruses have significant effects on carbon and nutrient flows, influencing freshwater ecosystem dynamics. Prymnesiovirus, CbV-PW1, as mentioned infects the algal genus \"Chyrsochromulina\". \"Chyrsochromulina\", found in",
+                "socre": 1.6242749691009521
+            }
+        ],
+        "source": "camelai",
+        "example_question": "\"How do factors like temperature, pH levels, and dissolved oxygen concentration in aquatic environments affect the proliferation and transmission of parasitic infections among their hosts?\"",
+        "task": "Multi-Doc Support"
+    },
+    {
+        "Options": [
+            "Sentence A: 'She is typing an email'",
+            "Sentence B: 'He is painting the silence'"
+        ],
+        "context": [
+            {
+                "id": "20090091",
+                "title": "Bi-directional hypothesis of language and action",
+                "text": "subjects were asked to indicate whether or not each presented sentence made logical sense. Plausible sentences described actions that could be performed by a human using the arms, hands, and/or fingers (\"He is swinging the bat\"), or actions that could not be performed (\"The barn is housing the goat\"). Implausible sentences also used similar action verbs (\"He is swinging the hope\"). Plausible, performable sentences lead to a significant change in the relative phase shift of the bimanual pendulum task. The coordination of the movement was altered by action language stimuli, as the relative phase shift that produced stable movement was",
+                "socre": 1.713430643081665
+            }
+        ],
+        "source": "slimOcar",
+        "example_question": "Question and Answer: One of the following sentences is nonsensical. Which one is it?\nOptions:\n- Sentence A: \"On a freezing day, a glass of ice will soon become a glass of water.\"\n- Sentence B: \"On a hot day, a glass of ice will soon become a glass of water.\"\n\nSentence A\nSome idea for the solution: Ice will not turn into water unless heat is applied.\n\n\nQuestion and Answer: Pick which sentence is not logical.\nOptions:\n- Sentence A: \"he bought the apples and kept inside the bag\"\n- Sentence B: \"he bought the apple and kept inside the pen\"\n\nSentence B\nSome idea for the solution: An apple cannot be kept inside a pen.\n\n\nQuestion and Answer: Pick which sentence is not logical.\nOptions:\n- Sentence A: \"If my brother loses the bet, I will order him to do all my chores.\"\n- Sentence B: \"If my brother wins the bet, I will order him to do all my chores.\"\n\nSentence B\nSome idea for the solution: The person who wins the bet is the person who gives the orders.\n\n\nQuestion and Answer: Which of the following sentences is nonsensical?\nOptions:\n- Sentence A: \"Justin Bieber is a famous musician who is not from this century\"\n- Sentence B: \"Mozart is a famous musician who is not from this century\"\n\nSentence A\nSome idea for the solution:",
+        "task": "Single-Doc Useless"
+    },
+    {
+        "context": [
+            {
+                "id": "15455377",
+                "title": "HTML5 in mobile devices",
+                "text": "uses the codice_2 method. Finding location is an asynchronous operation as it requires the user’s permission for access. Hence callback functions for success and failure are required. Even simple things like the improvements in HTML5 for forms could make life easier for mobile applications. Fields that can be validated by the browser are improvements for mobile devices. The more that can be handled by the browser means less time downloading JavaScript code and fewer round trips to the server if validation can be found before the form is posted. A Mobile Web Metrics Report demonstrates HTML5 capabilities in mobile devices.",
+                "socre": 1.4940942525863647
+            }
+        ],
+        "source": "EvolInstruct_70k",
+        "example_question": "How can JavaScript be used to create a responsive form with validation? Please provide a detailed explanation supported by comprehensive evidence, including a review of previous research studies and analysis of statistical data. Additionally, please provide suggestions on how to enhance the user experience by improving the design and functionality of the form. As part of your answer, please provide JavaScript code examples for implementing the suggested enhancements.",
+        "task": "Single-Doc Useless"
+    }
+]
