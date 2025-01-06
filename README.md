@@ -133,7 +133,9 @@ python passage_retrieval.py \
     --n_docs 250
 ```
 
-`RAG_INSTRUCT_DATA_PATH` is the final location of the synthesized `RAG-Instruct.json` file. The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval. Next, we randomly sample documents ranked beyond the top 200 as (D-).
+`RAG_INSTRUCT_DATA_PATH` is the final location of the synthesized `RAG-Instruct.json` file. The input file must be in `json` or `jsonl` format. Each instance should include either a `question` or `instruction` field, which will be used as the query during retrieval. 
+
+Next, we sample documents ranked beyond the top 200 as (D-) and get the final training data. 
 
 **2. Fine-tuning with RAG-Instruct**
 
