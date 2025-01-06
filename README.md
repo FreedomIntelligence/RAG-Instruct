@@ -119,7 +119,7 @@ python generate_data.py \
 ## 🚀 Training
 
 **1. Run Retriever**  
-Before training, we need to perform retrieval on the synthesized RAG-Instruct dataset. For each data entry, we ensure the use of all source documents(D*) and supplement them with enough unrelated documents(D-) to total 10 documents.
+Before training, we need to perform retrieval on the synthesized RAG-Instruct dataset. For each data entry, we ensure that the retrieval documents includes all source documents (D*) and supplement them with enough unrelated documents (D-) to total 10 documents.
 We use preprocessed passage data from DPR and embeddings generated with [Contriever](https://github.com/facebookresearch/contriever). To retrieve noisy documents (D-), use the following command:
 
 ```bash
