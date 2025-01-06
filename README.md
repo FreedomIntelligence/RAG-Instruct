@@ -23,7 +23,16 @@ Hello! Welcome to the repository for [RAG-Instruct](https://arxiv.org/abs/2501.0
 - **Five RAG paradigms**, which represent diverse query-document relationships to enhance model generalization across tasks.
 - **Instruction simulation**, which enriches instruction diversity and quality by utilizing the strengths of existing instruction datasets.
 
-Using this approach, we constructed a 40K instruction dataset from Wikipedia, covering a wide range of RAG scenarios and tasks.
+Using this approach, we constructed a 40K instruction dataset from Wikipedia, covering a wide range of RAG scenarios and tasks. 
+Our RAG-Instruct significantly enhances the RAG ability of LLMs, demonstrating remarkable improvements in RAG performance across various tasks.
+
+| Model                                       | WQA (acc) | PQA (acc) | TQA (acc) | OBQA (EM) | Pub (EM) | ARC (EM) | 2WIKI (acc) | HotP (acc) | MSQ (acc) | CFQA (EM) | PubMed (EM) |
+|---------------------------------------------|-----------|-----------|-----------|-----------|----------|----------|-------------|------------|-----------|-----------|-------------|
+| Llama3.2-3B                                | 59.3      | 62.4      | 70.1    | 88.6      | 87.7     | 88.0     | 88.0        | 54.6       | 31.4      | 63.0      | 77.0        |
+| Llama3.1-8B                                | 56.7      | 56.8      | 71.5      | 57.6      | 57.6     | 61.4     | 60.7        | 45.5       | 23.5      | 53.1      | 63.0        |
+| Llama3.2-3B + RAG-Instruct                 | 63.2      | 60.8      | 76.4      | 74.2     | 72.6     | 66.4   | 67.5        | 52.7       | 25.0      | 47.4      | 70.4       |
+| Llama3.1-8B + RAG-Instruct                 | 69.7      | 68.4     | 80.0     | 82.4      | 77.2     | 79.6     | 76.8        | 59.6       | 33.7     | 57.3        |  77.0        |
+
 
 We open-sourced our models, data, and code here.
 
