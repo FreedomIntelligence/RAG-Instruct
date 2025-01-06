@@ -142,7 +142,6 @@ Next, you can sample documents ranked beyond the top 200 as (D-) and get the fin
 You can fine-tune your large model using the `RAG-Instruct` dataset to significantly boost RAG capabilities. Use the following code:
 
 ```bash
-cd train
 accelerate launch --config_file ./configs/sft.yaml \
     --num_processes 8  \
     --num_machines 1 \
