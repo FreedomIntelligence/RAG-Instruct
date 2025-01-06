@@ -159,8 +159,23 @@ python generate_data.py \
 ```
 
 
-## 🔥 Evaluation
-
+## 🧐 Evaluation
+1. You first need to install [Sglang](https://github.com/sgl-project/sglang). After installation, deploy the model you want to test using Sglang with the following command:
+```bash
+log_num=0
+model_name="FreedomIntelligence/RAG-Instruct-Llama3-3B" # Path to the model you are deploying
+port=21${log_num}35
+CUDA_VISIBLE_DEVICES=0  python -m sglang.launch_server --model-path $model_name --port $port --mem-fraction-static 0.8 --dp 1 --tp 1  > sglang${log_num}.log 2>&1 &
+```
+2. Wait for the model to be deployed. After deployment, you can run the following code for evaluation. 
+```bash
+python evaluation/eval.py --model_name $model_name  --eval_file evaluation/data/eval_data.json --port $port 
+```
+3. After completing the evaluation, run the following code to stop the Sglang service and release GPU memory.
+```bash
+bash evaluation/kill_sglang_server.sh
+```
+The evaluation code above can be used to test most models supported by Sglang.
 
 
 ## 📖 Citation
