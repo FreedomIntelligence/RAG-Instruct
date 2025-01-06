@@ -49,8 +49,8 @@ RAG-Instruct models can be used just like `Llama-3.1-8B-Instruct`. You can deplo
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # Load the model and tokenizer
-model = AutoModelForCausalLM.from_pretrained("FreedomIntelligence/RAG-Instruct-Llama3.1-8B",torch_dtype="auto",device_map="auto")
-tokenizer = AutoTokenizer.from_pretrained("FreedomIntelligence/RAG-Instruct-Llama3.1-8B")
+model = AutoModelForCausalLM.from_pretrained("FreedomIntelligence/RAG-Instruct-Llama3-8B",torch_dtype="auto",device_map="auto")
+tokenizer = AutoTokenizer.from_pretrained("FreedomIntelligence/RAG-Instruct-Llama3-8B")
 
 # Example input
 input_text = """### Paragraph:
