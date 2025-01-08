@@ -31,15 +31,13 @@ def find_most_similar_index(str_list, target_str):
     return most_similar_index
 
 def match_choice3(text,options):
-
-    # 最后匹配原则
     matches = list(re.finditer(r"(is |是|\*|\W|\ |\(|为|^|'|\"|#)(?![aA] )([abcdefghijklmnABCDEFGHIJKLMN])(\W|$)", text, re.S))
     if matches:
         ans = matches[0].group(2)
         return ans,1
 
     text = text.lower()
-    # 
+
     opsindex = [(opt,text.rindex(options[opt].lower())) for opt in options if options[opt].lower() in text]
     if len(opsindex) > 0:
         return sorted(opsindex,key=lambda x:x[1],reverse=True)[0][0],2
@@ -49,22 +47,12 @@ def match_choice3(text,options):
     ansindex = find_most_similar_index(opans,text.lower())
     return oplabels[ansindex], 3
 
-    
-
-# def match(prediction, ground_truth):
-#     for gt in ground_truth:
-#         if gt in prediction:
-#             return 1
-#     return 0
-
 def match(prediction, ground_truth):
     for gt in ground_truth:
         matchres = re.search(r"(\W|^)("+re.escape(gt)+r")(\W|$)",prediction.lower(),re.S)
         if matchres:
             return 1
     return 0
-
-
 
 def score(data):
     res = {}
@@ -104,11 +92,10 @@ def score(data):
                 wrong_data.append(da)
             res[da['source']][2] += 1
 
-        # 计算类的，只匹配数字，去掉 0 符号影响
         elif da['source'] in ['ConvFinQA_test_retrieved']:
             gold = [x.lower() for x in da['golds']]
             match_test  = da['output'].lower()
-            # 限制有效数字
+            
             effect_len = 4
             testgold = gold[0].replace('0','').replace('.','').replace(',','')
             if len(testgold) > 1:
