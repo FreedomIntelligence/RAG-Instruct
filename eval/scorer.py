@@ -35,10 +35,7 @@ def match_choice3(text,options):
     # 最后匹配原则
     matches = list(re.finditer(r"(is |是|\*|\W|\ |\(|为|^|'|\"|#)(?![aA] )([abcdefghijklmnABCDEFGHIJKLMN])(\W|$)", text, re.S))
     if matches:
-        # 最后匹配
-        ans = matches[-1].group(2)
-        # 最先匹配
-        # ans = matches[0].group(2)
+        ans = matches[0].group(2)
         return ans,1
 
     text = text.lower()
@@ -98,10 +95,8 @@ def score(data):
                 wrong_data.append(da)
             res[da['source']][2] += 1
 
-        # 普通QA
         elif da['source'] in ['2WIKI_test_processed','triviaqa_test_w_gs','webqa_processed_retrieved','musique_ans_dev','popqa_longtail_w_gs', "triviaqa_helpful", "triviaqa_mid_help", "triviaqa_helpless"]:
             gold = [x.lower() for x in da['golds']]
-            # 限制下长度 100
             if match(da['output'].lower(),gold):
                 res[da['source']][1] += 1
                 cor_data.append(da)
@@ -117,12 +112,10 @@ def score(data):
             effect_len = 4
             testgold = gold[0].replace('0','').replace('.','').replace(',','')
             if len(testgold) > 1:
-                # testgold = testgold if len(testgold) <= effect_len else testgold[:effect_len]
                 gold = [testgold]
                 match_test = match_test.replace('0','').replace('.','').replace(',','')
                 
             if match(match_test,gold):
-            # if gold[0] in match_test:
                 res[da['source']][1] += 1
                 cor_data.append(da)
             else:
