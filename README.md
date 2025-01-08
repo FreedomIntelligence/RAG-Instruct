@@ -26,12 +26,12 @@ Hello! Welcome to the repository for [RAG-Instruct](https://arxiv.org/abs/2501.0
 Using this approach, we constructed a 40K instruction dataset from Wikipedia, covering a wide range of RAG scenarios and tasks. 
 Our RAG-Instruct significantly enhances the RAG ability of LLMs, demonstrating remarkable improvements in RAG performance across various tasks.
 
-| Model                          | WQA (acc) | PQA (acc) | TQA (acc) | OBQA (EM) |ARC (EM) | 2WIKI (acc) | HotP (acc) | MSQ (acc) | CFQA (EM) | PubMed (EM) |
-|--------------------------------|-----------|-----------|-----------|-----------|----------|-------------|------------|-----------|-----------|-------------|
-| Llama3.1-8B + Naive RAG                | 56.7      | 56.8      | 71.5      | 57.6   | 61.4     | 60.7        | 45.5       | 23.5      | 53.1      | 63.0 |
-| Llama3.1-8B-Instruct + Naive RAG    | 61.9     | 62.8      | 73.9      | 77.2      |70.3     | 66.8       | 45.5       | 19.0      | 53.7      | 73.6 |
-| Llama3.1-8B + RAG-Instruct     | 69.7      | 68.4      | 80.0      | 82.4     | 79.6     | 76.8        | 59.6       | 33.7      | 57.3      | 77.0   |
-
+| Model                          | WQA (acc) | PQA (acc) | TQA (acc) | OBQA (EM) | Pub (EM) | ARC (EM) | 2WIKI (acc) | HotP (acc) | MSQ (acc) | CFQA (EM) | PubMed (EM) |
+|--------------------------------|-----------|-----------|-----------|-----------|----------|----------|-------------|------------|-----------|-----------|-------------|
+| Llama3.2-3B                    | 58.7 | 61.8 | 69.7 |  77.0 | 55.0 | 66.8 | 55.6 | 40.2 | 13.2 | 46.8 | 70.3 |
+| Llama3.1-8B                    | 59.5                      | 60.8                | 73.4               |  82.0                           | 56.7                    | 77.1                    | 65.6                 | 45.6           | 18.7            | 56.5                     | 73.9                    |
+| Llama3.2-3B + RAG-Instruct     | 65.3                      | 64.0                | 77.0               |  81.2                           | 66.4                    | 73.0                    | 72.9                 | 52.7           | 25.0            | 50.3                     | 72.6                    |
+| Llama3.1-8B + RAG-Instruct     | 69.7                      | 68.4                | 79.3               |  84.8                           | 77.2                    | 79.9                    | 79.3                 | 56.4           | 30.3            | 57.8                     | 77.0                    |
 
 
 We open-sourced our models, data, and code here.
