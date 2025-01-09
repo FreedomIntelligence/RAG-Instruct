@@ -5,18 +5,15 @@ from tqdm import tqdm
 import multiprocessing
 from multiprocessing import Pool
 from concurrent.futures import ThreadPoolExecutor
-# from gpt import GPT
 import random
 import requests
 import argparse
-# from image_process import get_image 
 from functions import *
 import requests
 import json
 import random
 from openai import OpenAI
 import concurrent.futures
-# from prompt_reasoning import Prompt_end, Prompts_start
 import pandas as pd
 import csv
 from tqdm import tqdm as tqdm_progress
@@ -98,7 +95,6 @@ class GPT4:
             except Exception as e:
                 print(e)
 
-    # @retry(wait_fixed=500, stop_max_attempt_number=5)
     def retry_call(self, content, args={"max_tokens": 4096}):
         return self.call(content, args)
 
@@ -123,8 +119,6 @@ def select_from_data(file_path, sample_size=4200):
         if task == "normal1_2_v1" or task == "normal1_3_v1":
             if len(item["context"]) > 1:
                 item["context"] = [item["context"][0]]
-        # item["retrieval_ctxs_old"] = item["retrieval_ctxs"]
-        # del item["retrieval_ctxs"]
         task_classes[task].append(item)
 
     # Create a list to store the sampled contexts
