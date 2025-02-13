@@ -10,50 +10,6 @@ TASK_INST = {
              "pubmedqa": "Please answer the question with 'yes' or 'no' or 'maybe'."
              }
 
-def postprocess(pred):
-    if len(pred) == 0:
-        return ""
-    if pred[0] == " ":
-        pred = pred[1:]
-    return pred
-
-
-def load_jsonlines(file):
-    with jsonlines.open(file, 'r') as jsonl_f:
-        lst = [obj for obj in jsonl_f]
-    return lst
-
-
-def load_file(input_fp):
-    if input_fp.endswith(".json"):
-        input_data = json.load(open(input_fp))
-    else:
-        input_data = load_jsonlines(input_fp)
-    return input_data
-
-
-def save_file_jsonl(data, fp):
-    with jsonlines.open(fp, mode='w') as writer:
-        writer.write_all(data)
-
-
-def preprocess_input(input_data, task):
-    if task == "factscore":
-        for item in input_data:
-            item["instruction"] = item["input"]
-            item["output"] = [item["output"]
-                              ] if "output" in item else [item["topic"]]
-        return input_data
-
-    elif task == "qa":
-        for item in input_data:
-            if "instruction" not in item:
-                item["instruction"] = item["question"]
-            if "answers" not in item and "output" in item:
-                item["answers"] = "output"
-        return input_data
-
-
 
 def postprocess_output(input_instance, prediction, task, intermediate_results=None):
     if task == "factscore":
