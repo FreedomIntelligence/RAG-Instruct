@@ -2,7 +2,7 @@ import argparse
 import numpy as np
 from tqdm import tqdm
 import argparse
-from utils import load_file, TASK_INST
+from utils import TASK_INST
 import openai
 from jinja2 import Template
 import os
